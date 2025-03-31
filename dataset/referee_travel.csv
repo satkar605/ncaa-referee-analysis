@@ -1,0 +1,779 @@
+Referee,Games_Officiated,Total_Travel_Miles,Avg_Miles_Per_Trip,Unique_Venues,Unique_States,Most_Visited_Venue,Times_At_Most_Visited,Venue_Diversity_Ratio,Max_Single_Trip
+Keith Kimble,90,47458.79,533.24,52,29,"Gainbridge Fieldhouse (Indianapolis, IN)",5,0.58,2692.65
+Bert Smith,96,43223.31,454.98,61,28,"Purcell Pavilion at the Joyce Center (Notre Dame, IN)",5,0.64,1824.4
+Earl Walton,71,43024.52,614.64,38,21,"Pinnacle Bank Arena (Lincoln, NE)",6,0.54,2541.92
+Jeffrey Anderson,78,42332.58,549.77,40,21,"Carver-Hawkeye Arena (Iowa City, IA)",6,0.51,2042.64
+Ray Natili,80,41592.29,526.48,50,20,"United Supermarkets Arena (Lubbock, TX)",4,0.62,1986.38
+Kelly Pfeifer,67,41112.53,622.92,39,21,"Breslin Events Center (East Lansing, MI)",4,0.58,2453.85
+Brian Dorsey,85,40919.69,487.14,47,32,"Williams Arena (Minneapolis, MN)",5,0.55,2124.74
+Larry Scirotto,63,39542.46,637.78,34,21,"XFINITY Center (College Park, MD)",4,0.54,4193.39
+Michael Greenstein,77,38916.25,512.06,53,20,"McKale Center (Tucson, AZ)",4,0.69,2263.83
+Brooks Wells,96,36375.17,382.9,47,20,"James H. Hilton Coliseum (Ames, IA)",6,0.49,1679.53
+Paul Szelc,72,36115.04,508.66,41,23,"State Farm Center (Champaign, IL)",4,0.57,2278.95
+Randy McCall,75,34915.93,471.84,48,21,"Allen Fieldhouse (Lawrence, KS)",4,0.64,2581.96
+Tim Comer,63,33435.92,539.29,36,23,"Jersey Mike's Arena (Piscataway, NJ)",5,0.57,2461.55
+Rick Crawford,69,32953.8,484.61,41,18,"Addition Financial Arena (Orlando, FL)",4,0.59,1934.39
+Clarence Armstrong,94,32690.81,351.51,61,24,"JMA Wireless Dome (Syracuse, NY)",4,0.65,2171.37
+Chance Moore,79,32437.88,415.87,45,21,"Allen Fieldhouse (Lawrence, KS)",5,0.57,1873.95
+Tony Padilla,97,31767.18,330.91,51,23,"T-Mobile Center (Kansas City, MO)",5,0.53,1798.47
+Roger Ayers,103,31545.37,309.27,56,26,"John Paul Jones Arena (Charlottesville, VA)",6,0.54,1974.0
+Verne Harris,59,30742.35,530.04,25,20,"Thomas & Mack Center (Las Vegas, NV)",6,0.42,2048.19
+Kevin Brill,53,30737.65,591.11,31,18,"Thomas & Mack Center (Las Vegas, NV)",5,0.58,1944.81
+Jason Phillips,58,30645.52,537.64,26,18,"Pauley Pavilion (Los Angeles, CA)",5,0.45,2277.25
+Nate Harris,65,30623.9,478.5,34,20,"The Pit (Albuquerque, NM)",4,0.52,2009.25
+Edwin Young,58,30471.75,534.59,43,24,"Lawlor Events Center (Reno, NV)",3,0.74,2083.67
+Michael Reed,47,30429.41,661.51,29,20,"Simon Skjodt Assembly Hall (Bloomington, IN)",3,0.62,2393.26
+D.J. Carstensen,47,30144.74,655.32,30,19,"State Farm Center (Champaign, IL)",4,0.64,2385.93
+Doug Sirmons,98,29667.68,305.85,51,28,"Bramlage Coliseum (Manhattan, KS)",6,0.52,1410.35
+Pat Driscoll,65,29158.04,455.59,42,21,"Fiserv Forum (Milwaukee, WI)",4,0.65,4193.36
+Gregory Nixon,76,28908.22,385.44,51,20,"Orleans Arena (Las Vegas, NV)",5,0.67,1751.65
+Randy Richardson,69,28893.32,424.9,38,19,"Steve Fisher Court at Viejas Arena (San Diego, CA)",4,0.55,2046.38
+Marques Pettigrew,84,28444.96,342.71,42,18,"UCU Pavilion (Moraga, CA)",5,0.5,1861.78
+Michael Irving,64,27722.82,440.04,30,19,"Matthew Knight Arena (Eugene, OR)",4,0.47,2277.25
+Kipp Kissinger,104,27502.02,267.01,48,24,"Foster Pavilion (Waco, TX)",8,0.46,1773.09
+Amy Bonner,76,27144.23,361.92,45,25,"Thomas & Mack Center (Las Vegas, NV)",4,0.59,3777.4
+Tommy Johnson,63,26668.39,430.14,41,19,"UCU Pavilion (Moraga, CA)",4,0.65,2490.59
+John Gaffney,80,26220.8,331.91,53,24,"Madison Square Garden (New York, NY)",4,0.66,2379.55
+Brent Hampton,81,26113.82,326.42,46,26,"Wintrust Arena (Chicago, IL)",5,0.57,4330.07
+Bret Smith,75,26063.9,352.21,45,20,"United Supermarkets Arena (Lubbock, TX)",3,0.6,2163.76
+James Breeding,69,26053.02,383.13,37,20,"Madison Square Garden (New York, NY)",7,0.54,2362.99
+Tommy Morrissey,70,25826.84,374.3,47,23,"LJVM Coliseum (Winston-Salem, NC)",3,0.67,2278.51
+Eric Curry,56,25660.3,466.55,43,22,"McLeod Center (Cedar Falls, IA)",3,0.77,2614.62
+Mike Littlewood,63,25548.83,412.08,35,20,"Clune Arena (U.S. Air Force Academy, CO)",5,0.56,1972.09
+Andy O'Brien,55,23940.94,443.35,40,21,"XFINITY Center (College Park, MD)",3,0.73,2083.67
+Bart Lenox,77,23403.59,307.94,53,23,"Reed Arena (Bryan-College Station, TX)",4,0.69,1875.85
+Ron Groover,90,23048.17,258.97,53,25,"TD Arena (Charleston, SC)",7,0.59,2213.02
+Tony Henderson,73,22962.38,318.92,47,19,"Petersen Events Center (Pittsburgh, PA)",5,0.64,2279.56
+Brian McNutt,42,22938.73,559.48,29,18,"Scheels Center (Fargo, ND)",3,0.69,1763.37
+Lee Cassell,92,22887.64,251.51,53,23,"Littlejohn Coliseum (Clemson, SC)",5,0.58,1542.62
+Tyler Kumpf,51,21896.69,437.93,33,18,"Fifth Third Arena (Cincinnati, OH)",5,0.65,2163.84
+Don Daily,80,21848.54,276.56,46,22,"Bartow Arena (Birmingham, AL)",5,0.57,1595.66
+Terry Oglesby,84,21787.52,262.5,50,23,"Food City Center (Knoxville, TN)",4,0.6,1738.8
+John Floyd,59,21700.6,374.15,41,18,"Mackey Arena (West Lafayette, IN)",3,0.69,2392.39
+Todd Austin,70,21693.04,314.39,44,22,"Super Pit (Denton, TX)",5,0.63,1473.09
+Courtney Green,78,21550.28,279.87,47,18,"Exactech Arena at Stephen C. O'Connell Center (Gainesville, FL)",4,0.6,1324.15
+Tony Chiazza,76,20873.39,278.31,53,22,"Cintas Center (Cincinnati, OH)",4,0.7,1953.5
+Scott Brown,40,20548.98,526.9,24,18,"Dee Glen Smith Spectrum (Logan, UT)",4,0.6,2499.07
+Antinio Petty,51,20506.73,410.13,37,18,"Fifth Third Arena (Cincinnati, OH)",3,0.73,1742.09
+Landon Brandes,53,20362.15,391.58,35,13,"Avron B. Fogelman Arena in Devlin Fieldhouse (New Orleans, LA)",4,0.66,1382.99
+Owen Shortt,82,20185.69,249.21,47,21,"Charles Koch Arena (Wichita, KS)",5,0.57,1199.53
+Matt Potter,83,20118.75,245.35,52,23,"Fiserv Forum (Milwaukee, WI)",4,0.63,1153.01
+Brian O'Connell,70,19838.66,287.52,43,22,"Prudential Center (Newark, NJ)",6,0.61,1379.46
+Darron George,56,19816.4,360.3,39,16,"Addition Financial Arena (Orlando, FL)",3,0.7,1438.66
+Nathan Farrell,60,19568.05,331.66,38,18,"CHI Health Center Omaha (Omaha, NE)",5,0.63,2445.39
+Ted Valentine,73,19543.29,271.43,39,16,"KFC Yum! Center (Louisville, KY)",6,0.53,1299.25
+Lucas Santos,73,19180.06,266.39,45,17,"Mizzou Arena (Columbia, MO)",4,0.62,1989.67
+Doug Shows,82,18723.13,231.15,49,20,"Lloyd Noble Center (Norman, OK)",4,0.6,1318.26
+Alfred Smith,51,18659.21,373.18,33,18,"Allen County War Memorial Coliseum (Fort Wayne, IN)",4,0.65,1667.56
+Anthony Burris,43,18039.96,429.52,30,18,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.7,1184.7
+Deldre Carr,40,17912.18,459.29,30,17,"Alaska Airlines Arena (Seattle, WA)",2,0.75,2191.74
+Lamar Simpson,69,17305.73,254.5,49,22,"Wintrust Arena (Chicago, IL)",5,0.71,2569.98
+Chad Barlow,52,17134.92,335.98,33,16,"James A. Rhodes Arena (Akron, OH)",4,0.63,1771.93
+Greg Evans,71,17000.7,242.87,50,18,"Hinkle Fieldhouse (Indianapolis, IN)",4,0.7,2322.27
+Patrick Evans,52,16872.57,330.83,34,15,"Donald W. Reynolds Center (Tulsa, OK)",3,0.65,1424.18
+Jeb Hartness,80,16568.35,209.73,50,19,"Reed Arena (Bryan-College Station, TX)",5,0.62,1146.14
+De Selle Dean,43,16286.74,387.78,30,13,"McKale Center (Tucson, AZ)",3,0.7,2190.68
+Pat Adams,62,16115.15,264.18,31,13,"Stegeman Coliseum (Athens, GA)",6,0.5,1800.9
+Steven Anderson,71,16098.56,229.98,43,20,"Exactech Arena at Stephen C. O'Connell Center (Gainesville, FL)",4,0.61,1481.88
+A.J. Desai,49,15787.93,328.92,36,18,"Haas Pavilion (Berkeley, CA)",3,0.73,2636.03
+John Hampton,40,15768.4,404.32,28,16,"Acrisure Arena (Palm Desert, CA)",4,0.7,1993.39
+Joe Lindsay,69,15713.36,231.08,44,19,"Bud Walton Arena (Fayetteville, AR)",5,0.64,1298.73
+Deron White,58,15701.45,275.46,44,16,"Titan Gym (Fullerton, CA)",3,0.76,1850.37
+Ryan Sassano,54,15408.92,290.73,40,16,"UPMC Cooper Fieldhouse (Pittsburgh, PA)",4,0.74,2474.86
+Mason Siler,31,15200.54,506.68,22,12,"Truist Arena (Highland Heights, KY)",3,0.71,1952.25
+Bryan Anslinger,34,15094.17,457.4,22,12,"Betty Engelstad Sioux Center (Grand Forks, ND)",4,0.65,1237.56
+Byron Jarrett,76,15046.68,200.62,46,15,"Moody Center (Austin, TX)",4,0.61,1204.97
+Clare Aubry,19,15043.68,835.76,16,13,"KFC Yum! Center (Louisville, KY)",2,0.84,2433.34
+Rob Kueneman,38,15027.55,406.15,23,13,"First Bank & Trust Arena (Brookings, SD)",4,0.61,2044.53
+Josue Nieves,46,14892.18,330.94,37,17,"Stegeman Coliseum (Athens, GA)",3,0.8,1634.19
+Kelly Self,58,14879.35,261.04,31,12,"Athletics-Recreation Center (Valparaiso, IN)",4,0.53,1423.26
+Jerry Heater,65,14832.12,231.75,43,17,"Qubein Arena (High Point, NC)",4,0.66,2368.88
+Tim Stewart,40,14790.59,379.25,23,8,"James A. Rhodes Arena (Akron, OH)",5,0.57,1374.98
+Gary Maxwell,40,14758.92,378.43,26,16,"Ford Center (Evansville, IN)",3,0.65,1868.26
+Olandis Poole,66,14709.5,226.3,38,18,"Maravich Assembly Center (Baton Rouge, LA)",6,0.58,1924.56
+Vladimir Voyard-Tadal,66,14658.71,225.52,41,15,"The Sandy and John Black Pavilion at Ole Miss (Oxford, MS)",4,0.62,1756.44
+Justin Porterfield,49,14625.16,304.69,35,13,"Watsco Center (Coral Gables, FL)",3,0.71,2683.8
+Shane Staggs,25,14521.61,605.07,22,10,"Knights Hall (Louisville, KY)",2,0.88,1773.43
+Jason Baker,70,14504.07,210.2,48,18,"Cam Henderson Center (Huntington, WV)",3,0.69,1160.14
+Isaac Barnett,55,14446.6,267.53,36,17,"Convocation Center (Hampton, VA)",6,0.65,2614.42
+Shaun Seales,47,14419.65,313.47,34,13,"Tudor Fieldhouse (Houston, TX)",4,0.72,1434.16
+Keith Patterson,31,14398.73,479.96,24,16,"John Gray Gymnasium (George Town, Cayman Islands)",3,0.77,2380.43
+Evon Burroughs,61,14266.32,237.77,36,13,"Finneran Pavilion (Villanova, PA)",4,0.59,1266.58
+Jemel Spearman,54,14179.11,267.53,34,17,"Littlejohn Coliseum (Clemson, SC)",3,0.63,2395.68
+Steve Honacki,36,14117.28,403.35,20,12,"Scheels Center (Fargo, ND)",5,0.56,1522.01
+Luke Schumer,41,13988.91,349.72,28,15,"Truist Arena (Highland Heights, KY)",3,0.68,1086.27
+Wil Howard,52,13965.38,273.83,37,19,"Yuengling Center (Tampa, FL)",4,0.71,1143.64
+Layne Barney,29,13876.2,495.58,24,10,"Chiles Center (Portland, OR)",3,0.83,1836.26
+Matt Rafferty,22,13751.42,654.83,19,10,"Jon M. Huntsman Center (Salt Lake City, UT)",2,0.86,1836.26
+James Duke,26,13650.19,546.01,17,14,"Fifth Third Arena (Cincinnati, OH)",4,0.65,1969.54
+Garrick Shannon,47,13349.33,290.2,31,15,"Maravich Assembly Center (Baton Rouge, LA)",4,0.66,1187.33
+Tim Clougherty,71,13286.66,189.81,41,20,"Wintrust Arena (Chicago, IL)",4,0.58,1276.29
+Randy Heimerman,30,13082.1,451.11,16,9,"CEFCU Arena (Normal, IL)",5,0.53,1736.96
+Crystal Hogan,33,13015.94,406.75,26,21,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.79,1930.18
+Josh White,27,12880.5,495.4,15,11,"Convocation Center (Athens, OH)",4,0.56,2128.43
+Mark Riggs,34,12761.28,386.71,23,13,"Hamilton Gymnasium (Denver, CO)",4,0.68,2017.57
+Chuck Jones,57,12581.13,224.66,38,18,"Reed Arena (Bryan-College Station, TX)",6,0.67,2107.54
+Todd Von Sossan,33,12275.05,383.6,19,9,"Millett Hall (Oxford, OH)",4,0.58,904.67
+Jourdan Love,34,12187.83,369.33,26,13,"Ervin J. Nutter Center (Fairborn, OH)",2,0.76,2063.65
+Justin Albrecht,20,12081.14,635.85,15,10,"Wintrust Arena (Chicago, IL)",5,0.75,1584.71
+Jeffery Malham,23,12068.03,548.55,15,8,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",4,0.65,1730.11
+Thomas Nunez,29,11898.83,424.96,17,14,"Arena-Auditorium (Laramie, WY)",4,0.59,1813.86
+Daniel Nguyen,18,11744.47,690.85,17,13,"Save Mart Center (Fresno, CA)",2,0.94,2127.97
+Mark Schnur,57,11564.26,206.5,41,14,"McCamish Pavilion (Atlanta, GA)",3,0.72,2512.88
+Trey Styons,46,11413.98,253.64,30,10,"Gilbert Craig Gore Arena (Buies Creek, NC)",4,0.65,2279.56
+Tucson Grigg,24,11375.29,494.58,17,11,"Mitchell Center (Mobile, AL)",4,0.71,1598.69
+Pete Larson,34,11373.28,344.64,28,13,"Wintrust Arena (Chicago, IL)",2,0.82,1930.89
+Galen Durant,29,11218.32,400.65,22,17,"Williams Arena (Minneapolis, MN)",2,0.76,1535.56
+Shane Land,41,11024.92,275.62,30,13,"UNF Arena (Jacksonville, FL)",3,0.73,1240.73
+John Johnson,32,10854.35,350.14,25,11,"Moody Center (Austin, TX)",2,0.78,1205.67
+James Curran,39,10772.4,283.48,22,12,"Pan American Center (Las Cruces, NM)",4,0.56,1417.35
+Kellen Miliner,51,10685.7,213.71,39,14,"Littlejohn Coliseum (Clemson, SC)",3,0.76,2394.49
+Michael Swoboda,38,10668.31,288.33,31,16,"McAlister Field House (Charleston, SC)",2,0.82,1508.97
+Adam Flore,51,10624.69,212.49,40,16,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.78,2273.36
+Mike Pearson,29,10369.13,370.33,24,16,"Resch Center (Green Bay, WI)",4,0.83,1567.29
+Blanca Burns,22,10334.02,492.1,20,13,"The Pit (Albuquerque, NM)",2,0.91,2057.11
+Kevin Raher,29,10327.34,368.83,20,11,"First Bank & Trust Arena (Brookings, SD)",3,0.69,1050.33
+Ian Caldwell,24,10191.32,443.1,20,16,"Save Mart Center (Fresno, CA)",3,0.83,1747.07
+Chris Ford,38,10132.31,273.85,26,14,"Donald W. Reynolds Center (Tulsa, OK)",3,0.68,996.84
+Eric Lewis,51,10067.87,201.36,25,15,"Dean Smith Center (Chapel Hill, NC)",5,0.49,1257.36
+Chase Shaw,55,9903.15,183.39,43,18,"Thomas M. Ryan Center (Kingston, RI)",3,0.78,1175.28
+Greg Nixon,10,9850.12,1094.46,8,6,"Redhawk Center (Seattle, WA)",3,0.8,1973.08
+Randal Anders,32,9681.03,312.29,22,9,"College Park Center (Arlington, TX)",3,0.69,1741.49
+Donta Carter,33,9676.53,302.39,26,13,"Pete Hanna Center (Homewood, AL)",3,0.79,1370.82
+DG Nelson,38,9523.17,257.38,24,10,"CU Events Center (Boulder, CO)",3,0.63,1615.04
+Tony Meeks,35,9440.95,277.67,24,12,"McGuirk Arena (Mount Pleasant, MI)",3,0.69,1305.09
+Steve McJunkins,52,9390.19,184.12,37,18,"Henry J. Goodman Arena (Cleveland, OH)",3,0.71,1574.25
+Bill Ek,30,9277.33,319.91,23,10,"Stroh Center (Bowling Green, OH)",3,0.77,1891.61
+Jeff Pon,45,9233.82,209.86,37,16,"Robins Center (Richmond, VA)",3,0.82,1735.21
+Michael Kitts,41,9210.59,230.26,34,15,"Koessler Athletic Center (Buffalo, NY)",4,0.83,2545.85
+Ryan Christian,31,9188.67,306.29,20,8,"Holmes Convocation Center (Boone, NC)",3,0.65,1969.66
+Jose Carrion,25,9135.46,380.64,18,11,"Physical Education Complex (Baltimore, MD)",3,0.72,1416.94
+Chris Pacsi,31,9084.14,302.8,22,12,"Gallagher-Iba Arena (Stillwater, OK)",4,0.71,1424.44
+Ryan Holmes,29,9057.52,323.48,19,8,"Reed Gym (Pocatello, ID)",4,0.66,2054.38
+Ed Crenshaw,44,8818.33,205.08,27,10,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.61,1730.11
+Erroll Lewis,40,8741.2,224.13,35,13,"Lee E. Williams Athletics and Assembly Center (Jackson, MS)",3,0.88,1240.41
+Tariq Lucas,37,8679.49,241.1,28,13,"UPMC Events Center (Carnot-Moon, PA)",4,0.76,908.09
+Michael Griffith,22,8678.8,413.28,15,9,"Stroh Center (Bowling Green, OH)",3,0.68,1127.15
+Bharat Ramnanan,54,8581.48,161.91,37,14,"Legacy Center (Lake Charles, LA)",4,0.69,1004.74
+Christopher Merlo,30,8521.21,293.83,25,15,"Addition Financial Arena (Orlando, FL)",2,0.83,2322.27
+James Ford,41,8463.45,211.59,34,15,"UTRGV Fieldhouse (Edinburg, TX)",5,0.83,1793.77
+Robert Felder,42,8436.09,205.76,28,16,"Ford Center (Evansville, IN)",4,0.67,1639.68
+Steve Divine,27,8428.05,324.16,22,12,"Athletics-Recreation Center (Valparaiso, IN)",3,0.81,1777.11
+Michael Roberts,50,8350.73,170.42,38,19,"Cintas Center (Cincinnati, OH)",5,0.76,904.23
+Bill Covington Jr.,39,8347.56,219.67,26,12,"JMA Wireless Dome (Syracuse, NY)",4,0.67,1134.27
+Johnee Gleich,19,8305.98,461.44,15,10,"UPMC Events Center (Carnot-Moon, PA)",3,0.79,2083.67
+Blake Harris,40,8266.88,211.97,25,13,"Hertz Arena (Estero, FL)",3,0.62,1042.6
+Greg Gerritsen,31,8228.28,274.28,25,14,"Resch Center (Green Bay, WI)",3,0.81,1875.09
+Craig Murley,15,8170.4,583.6,14,10,"CEFCU Arena (Normal, IL)",2,0.93,2711.42
+Ed Corliss,63,8033.21,129.57,44,14,"Capital One Arena (Washington, DC)",5,0.7,1081.54
+Jim Bruno,32,8017.0,258.61,20,10,"Alumni Arena (Buffalo, NY)",3,0.62,2053.77
+AJ Desai,33,8001.39,250.04,25,13,"Purcell Pavilion at the Joyce Center (Notre Dame, IN)",3,0.76,2450.39
+Anthony Jordan,35,7977.94,234.65,24,12,"Halton Arena (Charlotte, NC)",4,0.69,1013.83
+Janetta Graham,15,7956.61,568.33,12,10,"Lawlor Events Center (Reno, NV)",2,0.8,2484.71
+Gene Grimshaw,37,7923.38,220.09,22,14,"College Park Center (Arlington, TX)",4,0.59,1289.63
+Greg Langsdorf,20,7917.01,416.68,11,8,"Memorial Athletic and Convocation Center (Kent, OH)",4,0.55,954.37
+Anthony Eades,49,7649.29,159.36,38,14,"Ocean Center (Daytona Beach, FL)",3,0.78,2228.81
+Leon Wilson,15,7568.24,540.59,11,9,"Baxter Arena (Omaha, NE)",3,0.73,790.98
+Kenneth Moreland,24,7545.93,328.08,18,11,"Betty Engelstad Sioux Center (Grand Forks, ND)",3,0.75,1060.77
+Jeff Campbell,36,7225.26,206.44,21,8,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.58,1634.73
+Dan Powers,25,7003.89,291.83,21,13,"Cameron Hall (Lexington, VA)",3,0.84,1169.01
+Mike Palau,62,6950.56,113.94,41,16,"Capital One Arena (Washington, DC)",5,0.66,733.63
+Chris Beaver,36,6889.21,196.83,18,8,"Millett Hall (Oxford, OH)",5,0.5,697.37
+King Whetstone,22,6794.21,323.53,17,10,"UPMC Events Center (Carnot-Moon, PA)",3,0.77,908.09
+Nathan Hall,61,6792.2,113.2,40,15,"The Palestra (Philadelphia, PA)",3,0.66,992.02
+Chris Hudson,33,6741.66,210.68,25,14,"Lee's Family Forum (Henderson, NV)",3,0.76,1567.82
+Ron Tyburski,32,6718.24,216.72,23,14,"Alumni Arena (Buffalo, NY)",3,0.72,1294.04
+Allen Sutton,13,6657.75,554.81,12,9,"Liberty Arena (Lynchburg, VA)",2,0.92,1453.56
+Bret Wegenke,9,6612.65,826.58,8,6,"Sanford Coyote Sports Center (Vermillion, SD)",2,0.89,1374.98
+Jason Deering,37,6472.9,179.8,31,12,"Allen Arena (Nashville, TN)",4,0.84,947.64
+Hunter Allen,39,6433.08,169.29,29,11,"F&M Bank Arena (Clarksville, TN)",3,0.74,1168.36
+Brian McAnally,18,6311.45,371.26,7,7,"Mabee Center (Tulsa, OK)",4,0.39,821.89
+"Bill Covington, Jr.",17,6276.33,392.27,14,9,"John Paul Jones Arena (Charlottesville, VA)",2,0.82,2473.35
+Jeff Spedoske,21,6240.19,312.01,15,7,"Read Fieldhouse/University Arena (Kalamazoo, MI)",2,0.71,1374.98
+Devyn Page,33,6142.47,191.95,27,12,"Ocean Bank Convocation Center (Miami, FL)",2,0.82,1204.97
+Scott Arbogast,17,6125.04,382.82,13,9,"Truist Arena (Highland Heights, KY)",3,0.76,1848.31
+Justin Shamion,37,6124.43,170.12,28,11,"Dahlberg Arena (Missoula, MT)",4,0.76,1615.48
+Rob Rorke,47,6076.86,132.11,33,15,"The HTC Center (Conway, SC)",4,0.7,849.03
+Daryl Gelinas,16,6057.93,403.86,11,6,"Clune Arena (U.S. Air Force Academy, CO)",2,0.69,2108.2
+R.B. Clyburn,31,6045.8,201.53,24,14,"CB&S Bank Arena at Flowers Hall (Florence, AL)",4,0.77,770.71
+Sean Hull,58,5983.96,104.98,37,12,"UPMC Cooper Fieldhouse (Pittsburgh, PA)",4,0.64,819.04
+Alex Landis,23,5970.05,271.37,18,12,"Henry J. Goodman Arena (Cleveland, OH)",3,0.78,1823.1
+Eric Lowe,32,5953.88,192.06,21,10,"Allen Arena (Nashville, TN)",2,0.66,1042.6
+Julian Scott,13,5937.18,494.77,10,7,"Joseph G. Echols Memorial Hall (Norfolk, VA)",2,0.77,2507.32
+Ben Stirt,47,5900.33,128.27,34,12,"The HTC Center (Conway, SC)",3,0.72,2219.38
+Michael Wallace,47,5891.28,128.07,37,14,"KSU Convocation Center (Kennesaw, GA)",3,0.79,1407.8
+Roland Simmons,24,5782.41,251.41,18,8,"Athletics-Recreation Center (Valparaiso, IN)",3,0.75,1742.09
+James Gibson,33,5780.16,180.63,23,14,"Hertz Arena (Estero, FL)",3,0.7,1598.69
+Kevin Mathis,21,5778.52,288.93,13,9,"Don Haskins Center (El Paso, TX)",3,0.62,1240.41
+Jeffery Clark,40,5680.69,145.66,29,15,"JMA Wireless Dome (Syracuse, NY)",3,0.72,1224.26
+K.B. Burdett Jr.,31,5611.85,187.06,22,13,"Coleman Coliseum (Tuscaloosa, AL)",3,0.71,1480.14
+KB Burdett Jr.,13,5475.39,456.28,9,6,"Mizzou Arena (Columbia, MO)",2,0.69,1598.69
+Tim Smith,60,5431.88,92.07,44,16,"Hinkle Fieldhouse (Indianapolis, IN)",3,0.73,809.7
+Damon Williams,19,5421.57,301.2,15,10,"Freedom Hall (Johnson City, TN)",2,0.79,1230.93
+Stephen Orkus Jr.,20,5343.44,281.23,14,8,"David R. Stopher Gymnasium (Thibodaux, LA)",2,0.7,803.73
+KB Burdett,10,5290.13,587.79,10,5,"Toyota Center (Houston, TX)",1,1.0,1002.57
+Michael Husted,33,5166.26,161.45,20,10,"CB&S Bank Arena at Flowers Hall (Florence, AL)",4,0.61,803.73
+Rob Riley,32,5011.14,161.65,28,14,"Simon Skjodt Assembly Hall (Bloomington, IN)",2,0.88,959.33
+Luke Chittum,26,4973.31,198.93,15,10,"Farris Center (Conway, AR)",5,0.58,757.55
+Mike Nance,45,4957.75,112.68,37,13,"Hanner Fieldhouse (Statesboro, GA)",2,0.82,764.38
+Mike Millione,42,4886.11,119.17,29,10,"Sojka Pavilion (Lewisburg, PA)",5,0.69,602.15
+RJ Johnson,17,4857.04,303.56,15,9,"Field House (Commerce, TX)",2,0.88,1432.23
+Matt Jarman,33,4773.73,149.18,27,12,"Halton Arena (Charlotte, NC)",2,0.82,792.64
+Jenna Reneau,8,4758.99,679.86,7,6,"Maples Pavilion (Stanford, CA)",2,0.88,2380.15
+John Jenkins Jr.,11,4743.61,474.36,10,7,"Gallagher-Iba Arena (Stillwater, OK)",2,0.91,1972.97
+Brian Shore,11,4740.29,474.03,9,5,"First Bank & Trust Arena (Brookings, SD)",2,0.82,1237.56
+Jon Campbell,12,4720.87,429.17,11,7,"Read Fieldhouse/University Arena (Kalamazoo, MI)",2,0.92,1856.67
+Jason Garretson,45,4691.67,106.63,31,12,"Maples Pavilion (Stanford, CA)",4,0.69,742.59
+Cody Crum,33,4652.99,145.41,25,12,"Western Hall (Macomb, IL)",4,0.76,1503.66
+Connor Mooney,34,4631.32,140.34,29,11,"Pizzitola Sports Center (Providence, RI)",2,0.85,814.34
+Ervin Wilson,33,4575.33,142.98,18,8,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",4,0.55,1757.48
+DJ Carstensen,23,4505.64,204.8,15,12,"Jersey Mike's Arena (Piscataway, NJ)",3,0.65,1163.38
+David Hall,18,4491.31,264.19,15,7,"Jenny Craig Pavilion (San Diego, CA)",2,0.83,1058.18
+Jeffrey Clark,21,4370.14,218.51,18,10,"JMA Wireless Dome (Syracuse, NY)",2,0.86,926.33
+Chuck McCoy,34,4280.35,129.71,25,10,"CB&S Bank Arena at Flowers Hall (Florence, AL)",4,0.74,1037.37
+Mike Roberts,16,4228.33,281.89,11,7,"Atlantis Resort (Paradise Island, Bahamas)",4,0.69,783.98
+Antonio Petty,12,4210.6,382.78,10,9,"Wisdom Gymnasium (Stephenville, TX)",2,0.83,1319.9
+Larry Scirroto,2,4207.67,4207.67,2,2,"Lahaina Civic Center (Lahaina, HI)",1,1.0,4207.67
+Chris Chumley,21,4070.98,203.55,15,10,"Farris Center (Conway, AR)",4,0.71,787.88
+Joe Switzer,39,3981.75,104.78,27,10,"Kaplan Arena (Williamsburg, VA)",4,0.69,422.01
+Mike Nardone,51,3951.58,79.03,38,13,"Chesapeake Employers Insurance Arena (Baltimore, MD)",3,0.75,733.21
+Sean Casady,26,3870.77,154.83,16,10,"Donald W. Reynolds Center (Tulsa, OK)",3,0.62,1155.67
+Nathan Bemis,20,3830.96,201.63,14,11,"Farris Center (Conway, AR)",4,0.7,807.29
+Matthew Rukasin,37,3780.01,105.0,24,11,"Global Credit Union Arena (Phoenix, AZ)",3,0.65,725.83
+Steve Devine,7,3770.91,628.49,6,5,"CFSB Center (Murray, KY)",2,0.86,1627.95
+Jermaine Rogers,23,3695.49,167.98,18,11,"The Jungle (Indianapolis, IN)",3,0.78,681.69
+Jabir Walker,14,3677.91,282.92,10,7,"Knights Hall (Louisville, KY)",3,0.71,1599.23
+Jeff Anderson,6,3650.24,730.05,5,4,"TD Arena (Charleston, SC)",2,0.83,1808.58
+Grant Jeffres,23,3646.79,165.76,16,8,"UCCU Center (Orem, UT)",4,0.7,1625.51
+Ryan McCarty,5,3638.2,909.55,3,3,"Don Haskins Center (El Paso, TX)",2,0.6,1212.73
+Juan Corral,15,3576.42,255.46,10,7,"Save Mart Center (Fresno, CA)",3,0.67,1875.09
+Leslie Jones,34,3561.61,107.93,22,9,"Joan Perry Brock Center (Farmville, VA)",6,0.65,1219.39
+Rodrick Dixon,23,3489.74,158.62,16,6,"American Bank Center (Corpus Christi, TX)",3,0.7,804.86
+Mark Fulton,29,3488.06,124.57,19,8,"Bren Events Center (Irvine, CA)",3,0.66,1115.68
+Bill Jacobson,11,3455.42,345.54,11,9,"Resch Center (Green Bay, WI)",1,1.0,691.43
+Mike Reed,13,3333.74,277.81,9,6,"Pauley Pavilion (Los Angeles, CA)",3,0.69,1698.98
+Joe Wilbert III,22,3282.07,156.29,17,10,"Legacy Center (Lake Charles, LA)",3,0.77,934.1
+Wally Rutecki,41,3242.39,81.06,26,11,"Kirby Sports Center (Easton, PA)",3,0.63,812.32
+Sutton Simon,16,3137.16,209.14,15,11,"Ervin J. Nutter Center (Fairborn, OH)",2,0.94,1395.01
+James Hicks,20,3127.28,164.59,13,9,"Show Me Center (Cape Girardeau, MO)",3,0.65,961.13
+Trent Dews,16,3086.68,205.78,9,4,"Field House (Commerce, TX)",4,0.56,376.07
+Isaiah Conrad,8,3042.81,434.69,8,7,"Holmes Convocation Center (Boone, NC)",1,1.0,1680.87
+Aran Hart,9,2967.87,370.98,9,7,"Pauley Pavilion (Los Angeles, CA)",1,1.0,2135.4
+Sidney Cohen,21,2964.02,148.2,17,9,"Allen Arena (Nashville, TN)",2,0.81,977.39
+Michael Mojica,33,2964.01,92.63,23,8,"CBU Events Center (Riverside, CA)",3,0.7,967.07
+Tim Kelly,35,2913.27,85.68,22,12,"EagleBank Arena (Fairfax, VA)",5,0.63,873.63
+Glen Mayberry,32,2896.9,93.45,23,9,"Albert Gersten Pavilion (Los Angeles, CA)",4,0.72,963.18
+Robert Foster,9,2896.4,362.05,7,7,"Pan American Center (Las Cruces, NM)",2,0.78,1599.23
+Glenn Tuitt,14,2836.07,218.16,11,6,"Dunn-Oliver Acadome (Montgomery, AL)",3,0.79,804.86
+Tim Fitzgerald,26,2826.53,113.06,17,13,"Jack Stephens Center (Little Rock, AR)",4,0.65,900.5
+John St. Clair,25,2799.99,116.67,19,12,"Farris Center (Conway, AR)",3,0.76,1186.88
+Nomi Kidwai,23,2793.02,126.96,21,10,"Athletics-Recreation Center (Valparaiso, IN)",2,0.91,818.3
+Mike O'Neil,6,2777.03,555.41,6,6,"Sanford Coyote Sports Center (Vermillion, SD)",1,1.0,860.92
+Kirk Smith,14,2767.03,212.85,12,7,"Viking Pavilion (Portland, OR)",2,0.86,1261.75
+Brandon Cruz,39,2761.55,72.67,29,14,"Chace Athletic Center (Smithfield, RI)",2,0.74,567.75
+Antoine Dawkins,8,2750.63,392.95,6,5,"Hill Field House (Baltimore, MD)",3,0.75,886.24
+Brad Clauss,8,2743.26,391.89,8,6,"Sanford Coyote Sports Center (Vermillion, SD)",1,1.0,1037.04
+Ronald Groover,9,2716.7,339.59,8,6,"State Farm Center (Champaign, IL)",2,0.89,1387.75
+Brian Zink,42,2716.5,66.26,28,7,"Matthews Arena (Boston, MA)",3,0.67,423.52
+Ed Phillips,5,2636.78,659.19,4,2,"Memorial Athletic and Convocation Center (Kent, OH)",2,0.8,1245.86
+Robert Lehigh,35,2601.28,76.51,23,10,"Alex G. Spanos Center (Stockton, CA)",4,0.66,730.42
+Chris Pasci,5,2600.21,650.05,4,4,"WVU Coliseum (Morgantown, WV)",2,0.8,1818.49
+Bob Franklin,14,2563.01,197.15,11,6,"Groniger Arena (Charleston, IL)",3,0.79,1241.74
+Jon Pierre Tjon-Joe-Pin,15,2537.15,181.23,13,10,"Fant-Ewing Coliseum (Monroe, LA)",2,0.87,826.21
+Stefan Maxwell,5,2530.82,632.71,5,5,"Mabee Center (Tulsa, OK)",1,1.0,753.29
+Barry Mathis,14,2502.67,192.51,11,6,"Eblen Center (Cookeville, TN)",3,0.79,676.51
+Billy Dunlap,25,2495.7,103.99,12,6,"Bon Secours Wellness Arena (Greenville, SC)",3,0.48,315.19
+Josh Anderson,40,2468.55,63.3,29,11,"Chesapeake Employers Insurance Arena (Baltimore, MD)",4,0.72,733.21
+David Walker,14,2459.51,189.19,10,7,"Millett Hall (Oxford, OH)",3,0.71,642.4
+Tuscon Grigg,3,2438.8,1219.4,2,2,"Pete Mathews Coliseum (Jacksonville, AL)",2,0.67,1219.4
+Tyler Sandmann,32,2437.24,78.62,24,11,"Broadview Center (Albany, NY)",3,0.75,598.12
+Kyle Bowen,17,2405.85,150.37,16,9,"McKenzie Arena (Chattanooga, TN)",2,0.94,601.18
+Michael Luckie,49,2394.2,49.88,30,11,"Christl Arena (West Point, NY)",4,0.61,433.42
+Will Howard,18,2346.99,138.06,16,12,"Halton Arena (Charlotte, NC)",3,0.89,1083.81
+Josh Burton,30,2341.44,80.74,21,11,"Leo D. Mahoney Arena (Fairfield, CT)",3,0.7,1044.52
+Mike Evans,51,2323.33,46.47,36,13,"Roy L. Patrick Gymnasium (Burlington, VT)",4,0.71,474.48
+Ben Cartmell,16,2296.58,153.11,10,6,"Dahlberg Arena (Missoula, MT)",3,0.62,708.31
+Bianca Burns,4,2280.48,760.16,4,4,"Galen Center (Los Angeles, CA)",1,1.0,1902.29
+Jake Keller,14,2260.57,173.89,9,7,"Robert F. Hyland Arena (Saint Charles, MO)",3,0.64,1608.17
+Kyle Luckie,26,2233.31,89.33,19,5,"Atlantic Union Bank Center (Harrisonburg, VA)",2,0.73,295.09
+Minkah Milton,9,2229.2,278.65,8,4,"Stroh Center (Bowling Green, OH)",2,0.89,754.87
+Chance Wallesen,23,2227.55,101.25,16,10,"Robert F. Hyland Arena (Saint Charles, MO)",5,0.7,1731.39
+Adam Vandenburgh,49,2221.23,46.28,26,9,"McCann Arena (Poughkeepsie, NY)",6,0.53,526.18
+Matthew Lavigne,27,2208.75,84.95,19,9,"Case Gym (Boston, MA)",4,0.7,477.13
+Scott Gooden,22,2204.17,104.96,14,9,"Ocean Center (Daytona Beach, FL)",3,0.64,889.27
+Mike O'Neill,20,2139.09,112.58,17,11,"Calihan Hall (Detroit, MI)",2,0.85,698.74
+Alexander Thompson,18,2117.68,124.57,16,8,"Marriott Center (Provo, UT)",2,0.89,1287.21
+Tony Crisp,50,2112.19,43.11,31,11,"Kaplan Arena (Williamsburg, VA)",3,0.62,479.26
+Frank Harvey III,32,2090.82,67.45,21,5,"SRC Arena (Riverside, CA)",4,0.66,472.18
+Jeff Clark,13,2079.42,173.29,10,6,"Amica Mutual Pavilion (Providence, RI)",2,0.77,783.98
+Geoff Vejsicky,15,2064.98,147.5,9,5,"Memorial Athletic and Convocation Center (Kent, OH)",5,0.6,763.77
+Vasili Mallios,51,2045.23,40.9,35,11,"Case Gym (Boston, MA)",3,0.69,474.48
+Luke Payne,12,2040.78,185.53,11,7,"McKenzie Arena (Chattanooga, TN)",2,0.92,494.31
+John Cahill Jr.,35,2033.34,59.8,27,11,"Matthews Arena (Boston, MA)",3,0.77,396.59
+Nate Melson,12,2015.73,183.25,9,5,"Dee Events Center (Ogden, UT)",2,0.75,745.88
+Nick Terry,24,2013.53,87.54,19,10,"The HTC Center (Conway, SC)",3,0.79,571.05
+Dan Basile,28,1964.29,72.75,17,9,"Chesapeake Employers Insurance Arena (Baltimore, MD)",3,0.61,407.0
+Brent Dugas,24,1949.78,84.77,12,4,"Legacy Center (Lake Charles, LA)",7,0.5,983.91
+Daniel Clark,9,1941.48,242.68,6,4,"Cameron Hall (Lexington, VA)",3,0.67,343.33
+Andrew Barksdale,25,1940.07,80.84,14,5,"Kaplan Arena (Williamsburg, VA)",4,0.56,260.73
+Jason Page,25,1937.85,80.74,15,6,"Joan Perry Brock Center (Farmville, VA)",4,0.6,554.27
+Tim Corner,2,1915.6,1915.6,2,2,"Breslin Events Center (East Lansing, MI)",1,1.0,1915.6
+Ben Syroka,5,1906.67,476.67,5,4,"Baxter Arena (Omaha, NE)",1,1.0,949.48
+Michael Terry,24,1897.46,82.5,16,7,"Freedom Hall (Johnson City, TN)",4,0.67,345.28
+Jack Loughran,18,1877.65,110.45,15,9,"The Palestra (Philadelphia, PA)",2,0.83,643.31
+Chase Vaden,13,1865.98,155.5,11,4,"Chartway Arena (Norfolk, VA)",2,0.85,400.06
+Nate Gamet,19,1863.47,103.53,13,10,"Show Me Center (Cape Girardeau, MO)",3,0.68,499.21
+Paul Szeic,2,1862.6,1862.6,2,2,"Petersen Events Center (Pittsburgh, PA)",1,1.0,1862.6
+Owen Luckie,20,1860.06,97.9,15,6,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.75,542.75
+John Jenkins Jr,2,1851.42,1851.42,2,2,"Gill Coliseum (Corvallis, OR)",1,1.0,1851.42
+Kristyne Esparza,21,1844.65,92.23,15,7,"The Thunderdome (Isla Vista, CA)",2,0.71,954.88
+Mamadou Ba,21,1829.96,91.5,15,7,"Ocean Center (Daytona Beach, FL)",3,0.71,1033.77
+Ian McClenny,23,1805.62,82.07,15,7,"Bender Arena (Washington, DC)",4,0.65,389.53
+John Washo,5,1780.89,445.22,5,5,"George Gervin GameAbove Center (Ypsilanti, MI)",1,1.0,928.43
+Eric Boyce,7,1759.77,293.29,6,5,"Alex G. Spanos Center (Stockton, CA)",2,0.86,666.7
+Raymond Tate,12,1759.77,159.98,9,4,"Health & Physical Education Arena (Houston, TX)",3,0.75,527.78
+Wilson Holland,24,1753.22,76.23,18,7,"LionTree Arena (La Jolla, CA)",3,0.75,942.02
+Kyle Bottoms,21,1748.41,87.42,12,6,"Allen Arena (Nashville, TN)",6,0.57,381.38
+Lars Murray,5,1747.99,437.0,4,4,"Memorial Athletic and Convocation Center (Kent, OH)",2,0.8,864.18
+Dan Dorian,6,1747.47,349.49,6,5,"Swinney Center (Kansas City, MO)",1,1.0,644.09
+Carl Luciano,25,1720.27,71.68,18,9,"Matthews Arena (Boston, MA)",3,0.72,363.71
+Cedric Coleman,16,1714.36,114.29,10,7,"Jack Stephens Center (Little Rock, AR)",4,0.62,384.17
+Mikerlange Fleury,53,1705.67,32.8,29,9,"Stony Brook Arena (Stony Brook, NY)",5,0.55,240.98
+Jason Bradwell,46,1664.92,37.0,31,11,"Roy L. Patrick Gymnasium (Burlington, VT)",4,0.67,526.18
+Chris King,19,1652.68,91.82,15,8,"Dunn-Oliver Acadome (Montgomery, AL)",2,0.79,586.61
+Michael Scyphers,23,1631.14,74.14,14,3,"The Thunderdome (Isla Vista, CA)",3,0.61,630.03
+Kevin Driver,19,1592.13,88.45,12,5,"Show Me Center (Cape Girardeau, MO)",3,0.63,1211.8
+Bill Vinovich,27,1589.86,61.15,19,6,"Acrisure Arena (Palm Desert, CA)",3,0.7,854.6
+Brad Ferrie,12,1573.29,143.03,10,6,"Ford Center (Evansville, IN)",2,0.83,779.92
+Henry Howard,10,1544.21,171.58,5,2,"McDermott Center (San Antonio, TX)",3,0.5,1280.74
+Courtney Holmes,14,1532.59,117.89,12,5,"War Memorial at the Sobrato Center (San Francisco, CA)",2,0.86,841.69
+Bill Covington,17,1523.21,95.2,13,8,"LJVM Coliseum (Winston-Salem, NC)",2,0.76,544.89
+Jake Hirz,15,1486.68,106.19,11,7,"Bank of Colorado Arena (Greeley, CO)",2,0.73,904.41
+Billy McClatchy,8,1466.36,209.48,7,5,"Memorial Athletic and Convocation Center (Kent, OH)",2,0.88,505.44
+John Barley,21,1460.78,73.04,15,8,"The Palestra (Philadelphia, PA)",3,0.71,281.5
+K.B. Burdett,6,1456.19,291.24,6,4,"E.A. Diddle Arena (Bowling Green, KY)",1,1.0,785.51
+Bobby Bissant,6,1450.74,290.15,5,5,"Cam Henderson Center (Huntington, WV)",2,0.83,952.54
+Patrick Harwood,13,1446.6,120.55,10,7,"Reitz Arena (Baltimore, MD)",2,0.77,377.3
+Tommy Nunez,15,1445.05,103.22,7,6,"Clune Arena (U.S. Air Force Academy, CO)",4,0.47,768.3
+Scott Bennett,26,1435.64,57.43,20,7,"Kaplan Arena (Williamsburg, VA)",3,0.77,391.93
+Rhett Lamoreaux,10,1431.95,159.11,5,5,"Betty Engelstad Sioux Center (Grand Forks, ND)",2,0.5,626.45
+Casey McClellan,30,1408.13,48.56,23,9,"Viking Pavilion (Portland, OR)",4,0.77,830.7
+Greg Moyer,36,1405.55,40.16,27,10,"Newman Arena (Ithaca, NY)",2,0.75,556.16
+Grant Tyler,10,1401.87,155.76,8,4,"Thomas Assembly Center (Ruston, LA)",2,0.8,479.55
+Justin McKie,19,1397.05,77.61,19,8,"EagleBank Arena (Fairfax, VA)",1,1.0,485.78
+Steven Perry Jr.,28,1387.22,51.38,21,9,"Knott Arena (Emmitsburg, MD)",3,0.75,458.23
+David Powell,34,1363.78,41.33,25,10,"M&T Bank Arena (Hamden, CT)",3,0.74,602.15
+Chris Fuller,20,1348.85,70.99,14,9,"Ford Center (Evansville, IN)",4,0.7,598.31
+Jose A Carrion,3,1348.13,674.07,3,3,"Atlantic Union Bank Center (Harrisonburg, VA)",1,1.0,1004.74
+"John Cahill, Jr.",16,1347.26,89.82,14,8,"Events Center (Vestal, NY)",2,0.88,502.05
+Lamont Simpson,15,1344.53,96.04,8,2,"Read Fieldhouse/University Arena (Kalamazoo, MI)",4,0.53,145.3
+JW Lucas,35,1285.62,37.81,19,5,"Trask Coliseum (Wilmington, NC)",4,0.54,329.9
+Kelly Ely,3,1282.83,641.42,3,2,"College Park Center (Arlington, TX)",1,1.0,1130.06
+Sean Campbell,23,1276.71,58.03,18,8,"Kirby Sports Center (Easton, PA)",3,0.78,327.9
+Will Flowers,35,1260.43,37.07,20,11,"Lavietes Pavilion (Boston, MA)",4,0.57,567.75
+Jordan Arnold,13,1258.37,104.86,9,7,"Ramsey Center (Cullowhee, NC)",4,0.69,357.15
+Klajdi Mulla,5,1248.64,312.16,4,4,"Murphy Center (Murfreesboro, TN)",2,0.8,610.65
+Zelton Sneed,3,1235.85,617.92,3,3,"Convocation Center (San Antonio, TX)",1,1.0,983.03
+Lionel Butler,14,1231.35,94.72,11,8,"DeGol Arena (Loretto, PA)",2,0.79,256.54
+Jawaan Williams,25,1225.44,51.06,17,7,"MVP Arena (Albany, NY)",2,0.68,809.7
+Joshua White,8,1221.17,174.45,8,5,"Cam Henderson Center (Huntington, WV)",1,1.0,342.38
+Danny Chance,22,1212.59,57.74,10,2,"David R. Stopher Gymnasium (Thibodaux, LA)",5,0.45,258.52
+Thomas Northcutt,12,1210.77,110.07,8,5,"William R. Johnson Coliseum (Nacogdoches, TX)",2,0.67,388.06
+Devorn Kinsey,12,1202.5,109.32,9,6,"Joseph G. Echols Memorial Hall (Norfolk, VA)",3,0.75,458.23
+Nick Meyer,12,1181.55,107.41,11,9,"KSU Convocation Center (Kennesaw, GA)",2,0.92,600.13
+Raymond Lightfoot,16,1178.81,78.59,15,9,"Williams Arena at Minges (Greenville, NC)",2,0.94,398.86
+Derek Schulte,26,1173.49,46.94,13,7,"McDermott Center (San Antonio, TX)",3,0.5,631.85
+Chad Shepherd,26,1172.14,46.89,23,8,"America First Event Center (Cedar City, UT)",2,0.88,931.28
+William Covington,7,1164.89,194.15,7,6,"The Sandy and John Black Pavilion at Ole Miss (Oxford, MS)",1,1.0,758.01
+Tim Marion,10,1148.17,127.57,7,6,"UPMC Events Center (Carnot-Moon, PA)",3,0.7,443.01
+Christopher Balunek,16,1131.71,75.45,11,3,"Legacy Center (Lake Charles, LA)",3,0.69,542.14
+Zelton Steed,9,1103.09,137.89,8,5,"Ramsey Center (Cullowhee, NC)",2,0.89,501.21
+Clyde Owens,7,1096.89,182.81,6,5,"Fleming Gymnasium (Greensboro, NC)",2,0.86,698.02
+Grady Dale,7,1092.33,182.05,6,3,"William R. Johnson Coliseum (Nacogdoches, TX)",2,0.86,410.09
+Pat Evans,5,1087.36,271.84,3,3,"Barclays Center (Brooklyn, NY)",2,0.6,800.3
+Mick Fieldbinder,9,1079.58,134.95,5,3,"Eblen Center (Cookeville, TN)",4,0.56,1079.58
+Bill Humes,7,1039.79,173.3,7,6,"Ramsey Center (Cullowhee, NC)",1,1.0,355.87
+Todd Van Sossan,2,1037.04,1037.04,2,2,"Worthen Arena (Muncie, IN)",1,1.0,1037.04
+Riley McGraw,16,1036.17,69.08,13,7,"Ted Grant Court (Syracuse, NY)",2,0.81,294.47
+Michael Kashirsky,14,1015.63,78.13,12,8,"The Thunderdome (Isla Vista, CA)",2,0.86,1015.63
+Ryan Corbett,36,1010.29,28.87,25,8,"Roy L. Patrick Gymnasium (Burlington, VT)",4,0.69,373.4
+Jeff Malham,8,1004.55,143.51,7,6,"Enterprise Center (St. Louis, MO)",2,0.88,747.11
+Bryan Washer,34,998.4,30.25,18,8,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",4,0.53,402.3
+Martin Spencer,9,957.89,119.74,7,6,"UPMC Events Center (Carnot-Moon, PA)",2,0.78,505.44
+Anthony Burns,2,957.26,957.26,2,2,"Health & Physical Education Arena (Houston, TX)",1,1.0,957.26
+Kelly Davis,10,943.58,104.84,6,5,"Farris Center (Conway, AR)",4,0.6,384.17
+Chandler Burton,15,930.4,66.46,11,4,"McAlister Field House (Charleston, SC)",2,0.73,306.06
+Evan Berg,17,924.79,57.8,14,5,"McKenzie Arena (Chattanooga, TN)",3,0.82,263.05
+Nicholaus Heater,13,915.29,76.27,10,7,"Freedom Hall (Johnson City, TN)",2,0.77,400.14
+Trenton Chaney,6,896.36,179.27,5,2,"McDermott Center (San Antonio, TX)",2,0.83,356.48
+Frank Harvey,3,894.77,447.39,2,2,"Walter Pyramid (Long Beach, CA)",2,0.67,894.77
+Randell Wells,3,889.27,444.63,2,2,"Ocean Center (Daytona Beach, FL)",2,0.67,889.27
+Jeffrey Adams,13,889.13,74.09,11,8,"Memorial Gymnasium (Orono, ME)",2,0.85,437.9
+Jailaan Kinsey,10,877.68,97.52,10,5,"Gallagher Center (Niagara University, NY)",1,1.0,359.09
+Chris Slattery,20,876.8,46.15,12,7,"David S. Mack Sports and Exhibition Complex (Hempstead, NY)",4,0.6,319.67
+Tommy Deneen,31,868.51,28.95,19,8,"Costello Athletic Center (Lowell, MA)",5,0.61,193.13
+Nick Atwood,9,858.46,107.31,8,2,"William R. Johnson Coliseum (Nacogdoches, TX)",2,0.89,314.0
+Wesley Ford,6,857.81,171.56,5,2,"Moody Coliseum (Abilene, TX)",2,0.83,626.35
+Andrew Steratore,4,845.89,281.96,4,4,"First Bank & Trust Arena (Brookings, SD)",1,1.0,845.89
+Wacey Lym,9,842.3,105.29,8,6,"CU Events Center (Boulder, CO)",2,0.89,421.15
+Jeremy Mosier,30,833.39,28.74,21,6,"Freedom Hall (Johnson City, TN)",4,0.7,341.78
+John Caputo,6,827.41,165.48,4,2,"UPMC Events Center (Carnot-Moon, PA)",2,0.67,313.94
+Drew Larson,5,816.92,204.23,5,4,"Pan American Center (Las Cruces, NM)",1,1.0,421.16
+Bruce Rothwell,20,810.2,42.64,10,5,"Case Gym (Boston, MA)",3,0.5,252.61
+Bobby Bissant III,9,794.76,99.34,7,4,"Prather Coliseum (Natchitoches, LA)",2,0.78,420.36
+Earl Lennie,11,785.54,78.55,4,1,"University Center (Hammond, LA)",4,0.36,216.0
+Todd VonSossan,7,780.94,130.16,3,3,"Denny Sanford PREMIER Center (Sioux Falls, SD)",3,0.43,780.94
+Gerald Williams,12,777.34,70.67,8,2,"William J. Nicks Building (Prairie View, TX)",4,0.67,261.94
+Owen Farist,8,757.32,108.19,6,3,"Pete Hanna Center (Homewood, AL)",3,0.75,300.1
+Arthur Vaulk,15,747.1,53.36,9,6,"CB&S Bank Arena at Flowers Hall (Florence, AL)",5,0.6,510.16
+Eric Kronebusch,20,746.85,39.31,11,3,"Sharp Gymnasium (Houston, TX)",4,0.55,384.95
+Ray Ames,28,734.16,27.19,16,7,"Dahlberg Arena (Missoula, MT)",4,0.57,734.16
+Byron Evans,15,723.12,51.65,8,4,"Dunn-Oliver Acadome (Montgomery, AL)",4,0.53,320.8
+Josh Haug,9,719.42,89.93,3,2,"William R. Johnson Coliseum (Nacogdoches, TX)",5,0.33,134.13
+Earl Watson,3,709.74,354.87,3,3,"Colonial Hall at The Greenbrier (White Sulphur Springs, WV)",1,1.0,709.74
+Kurt Tackett,8,698.19,99.74,7,3,"Curry Arena (Charlotte, NC)",2,0.88,189.83
+Ernest Hamilton III,16,691.99,46.13,13,6,"Ross E. Templeton Center (Clinton, SC)",3,0.81,521.05
+Ernest Hamilton,8,681.7,97.39,7,6,"Freedom Hall (Johnson City, TN)",2,0.88,341.26
+Damon Allen,4,671.57,223.86,4,4,"Hytche Center (Princess Anne, MD)",1,1.0,503.99
+Jarrett Howell,12,671.31,61.03,8,3,"Field House (Commerce, TX)",3,0.67,244.8
+"K.B. Burdett, Jr.",5,669.1,167.28,3,3,"Tudor Fieldhouse (Houston, TX)",2,0.6,669.1
+Jarrett Robinson,14,652.69,50.21,11,6,"Hill Field House (Baltimore, MD)",2,0.79,237.59
+Nelson Santiago,10,651.09,72.34,4,2,"Edmunds Center (DeLand, FL)",4,0.4,651.09
+Brad Yorkovich,6,637.95,127.59,4,4,"KSU Convocation Center (Kennesaw, GA)",2,0.67,637.95
+Brandon Kamil,18,634.35,37.31,12,5,"Spiro Sports Center Athletic Complex (Staten Island, NY)",2,0.67,172.92
+John Cahill Jr,5,622.7,155.68,5,4,"Belk Arena (Davidson, NC)",1,1.0,622.7
+Julian Legido,11,619.61,61.96,6,2,"Alico Arena (Fort Myers, FL)",3,0.55,527.5
+Jafar Kinsey,8,613.98,87.71,8,5,"Reilly Center (St. Bonaventure, NY)",1,1.0,216.79
+Ross Cullins,13,605.6,50.47,9,2,"Sharp Gymnasium (Houston, TX)",3,0.69,244.8
+Kolbert Galeano,8,599.63,85.66,6,4,"Kirby Sports Center (Easton, PA)",2,0.75,359.09
+Rob Riley Jr.,6,588.43,117.69,6,5,"Alumni Hall (Annapolis, MD)",1,1.0,588.43
+Marvin Harris Jr.,9,573.15,71.64,8,6,"University Center (Macon, GA)",2,0.89,318.45
+John St. Claire,2,572.71,572.71,2,2,"Lee's Family Forum (Henderson, NV)",1,1.0,572.71
+Kendell Ridley,12,571.7,51.97,12,9,"Kaplan Arena (Williamsburg, VA)",1,1.0,409.88
+Beau Melancon,4,569.77,189.92,4,2,"Prather Coliseum (Natchitoches, LA)",1,1.0,447.57
+Damien Richard,22,569.03,27.1,14,7,"David R. Stopher Gymnasium (Thibodaux, LA)",5,0.64,448.33
+Kip Kissinger,3,568.79,284.39,3,3,"LionTree Arena (La Jolla, CA)",1,1.0,568.79
+Garrett Nestor,11,561.7,56.17,9,4,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.82,229.58
+Andy Acosta,2,531.94,531.94,2,2,"Rolle Activity Center (Flagstaff, AZ)",1,1.0,531.94
+Tommy Morrisey,3,516.22,258.11,3,2,"JMA Wireless Dome (Syracuse, NY)",1,1.0,516.22
+Edward Corbett Jr.,22,514.78,24.51,17,6,"Christl Arena (West Point, NY)",3,0.77,166.08
+Carl Gray,4,506.13,168.71,4,2,"Prather Coliseum (Natchitoches, LA)",1,1.0,374.4
+John Atanassov,12,505.98,46.0,5,3,"UNF Arena (Jacksonville, FL)",5,0.42,505.98
+Rob Rourke,2,493.26,493.26,2,2,"Tudor Fieldhouse (Houston, TX)",1,1.0,493.26
+Johnny Wilkins,9,490.61,61.33,6,2,"William R. Johnson Coliseum (Nacogdoches, TX)",3,0.67,356.48
+Rob Riley Sr.,3,490.13,245.07,3,3,"Kohl Center (Madison, WI)",1,1.0,276.32
+CJ Middlebrooks,11,486.07,48.61,8,4,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.73,274.62
+K.B. Burdett Jr,5,484.35,121.09,3,3,"Humphrey Coliseum (Starkville, MS)",2,0.6,484.35
+Talmadge Scott,10,480.32,53.37,7,4,"Prather Coliseum (Natchitoches, LA)",2,0.7,264.32
+Jim Googas,15,477.13,34.08,14,8,"Ocean Center (Daytona Beach, FL)",2,0.93,251.58
+Doug Sturdivan,20,476.52,25.08,17,6,"The Nest (Sacramento, CA)",2,0.85,278.37
+Martin Cichocki,24,470.37,20.45,19,6,"Viking Pavilion (Portland, OR)",2,0.79,470.37
+Jason Albanza,3,465.74,232.87,3,3,"Gill Coliseum (Corvallis, OR)",1,1.0,465.74
+Steven Chiara,9,458.04,57.26,6,2,"Prather Coliseum (Natchitoches, LA)",2,0.67,458.04
+Quentin Jackson,6,449.07,89.81,5,3,"Harrison HPER Complex (Itta Bena, MS)",2,0.83,449.07
+Nick Nadeau,19,447.86,24.88,14,7,"UNF Arena (Jacksonville, FL)",3,0.74,336.54
+Troy Mathis,7,443.61,73.94,6,4,"Dunn-Oliver Acadome (Montgomery, AL)",2,0.86,167.56
+Matt Oblas,13,436.08,36.34,9,6,"Kaplan Arena (Williamsburg, VA)",3,0.69,184.83
+JP Primm,13,433.84,36.15,9,5,"First Community Arena (Edwardsville, IL)",3,0.69,263.05
+"KB Burdett, Jr.",4,428.2,142.73,2,2,"Food City Center (Knoxville, TN)",2,0.5,428.2
+Raymond Downs,10,425.6,47.29,9,5,"Bogota Savings Bank Center (Hackensack, NJ)",2,0.9,244.64
+Doug Simons,5,422.23,105.56,4,4,"Drake Knapp Center (Des Moines, IA)",2,0.8,422.23
+John Garrett,7,419.24,69.87,7,4,"Ramsey Center (Cullowhee, NC)",1,1.0,247.61
+Michael Thornton,7,410.86,68.48,4,2,"Dugan Wellness Center (Corpus Christi, TX)",3,0.57,139.56
+Anthony Franklin,25,404.98,16.87,14,6,"TD Arena (Charleston, SC)",3,0.56,283.06
+Adam Fiore,2,404.12,404.12,2,2,"Silvio O. Conte Forum (Boston, MA)",1,1.0,404.12
+Landen Cammack,11,398.86,39.89,10,7,"McAlister Field House (Charleston, SC)",2,0.91,398.86
+Bart Lennox,3,396.54,198.27,3,3,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",1,1.0,396.54
+David Howard,16,383.76,25.58,8,1,"UTRGV Fieldhouse (Edinburg, TX)",7,0.5,196.11
+Art Vaulk,7,383.54,63.92,4,4,"Bon Secours Wellness Arena (Greenville, SC)",3,0.57,165.68
+Matt Lavigne,8,383.31,54.76,6,5,"VisitLethbridge.com Arena (Lethbridge, Canada)",3,0.75,383.31
+Andrew Murray,4,375.94,125.31,4,3,"The Jungle (Indianapolis, IN)",1,1.0,216.69
+J.W. Lucas,3,373.76,186.88,3,3,"The Stuart C. Siegel Center (Richmond, VA)",1,1.0,373.76
+Sean Lineberger,24,371.1,16.13,15,4,"Qubein Arena (High Point, NC)",4,0.62,191.12
+Connor Penn,24,370.75,16.12,15,8,"G.B. Hodge Center (Spartanburg, SC)",4,0.62,230.41
+Keith Fogleman,19,367.17,20.4,14,5,"Ellis Corbett Sports Center (Greensboro, NC)",3,0.74,188.3
+Javed Trotman,13,363.46,30.29,11,5,"Cotterell Court (Hamilton, NY)",2,0.85,205.94
+Davis Maxwell,3,361.06,180.53,3,2,"Jerry Richardson Indoor Stadium (Spartanburg, SC)",1,1.0,297.04
+Jesse Joseph,13,357.53,29.79,6,3,"Knights Hall (Louisville, KY)",3,0.46,178.76
+Martin Cichoki,3,356.21,178.11,2,1,"Bren Events Center (Irvine, CA)",2,0.67,356.21
+Jason Stallworth,13,353.88,29.49,12,7,"DeGol Arena (Loretto, PA)",2,0.92,180.96
+Grant Todey,7,351.13,58.52,7,4,"Lenovo Center (Raleigh, NC)",1,1.0,351.13
+Larry Hamilton,7,350.59,58.43,5,5,"Colonial Hall at The Greenbrier (White Sulphur Springs, WV)",2,0.71,216.72
+Keith Bennett,11,343.89,34.39,8,5,"McDougald-McLendon Arena (Durham, NC)",2,0.73,172.95
+Marcus Hawkins,10,337.89,37.54,8,4,"Fant-Ewing Coliseum (Monroe, LA)",2,0.8,337.89
+Sparky Hamilton,12,323.11,29.37,6,4,"Jack Stephens Center (Little Rock, AR)",4,0.5,225.06
+RB Clyburn,5,322.19,80.55,3,3,"The Reef at FSCJ (Jacksonville, FL)",2,0.6,322.19
+Kyle Ray,4,322.18,107.39,4,4,"Knights Hall (Louisville, KY)",1,1.0,180.88
+Jake Kuhlman,8,322.07,46.01,7,5,"CB&S Bank Arena at Flowers Hall (Florence, AL)",2,0.88,322.07
+John Hendricks,15,320.94,22.92,8,6,"Carver Arena (Peoria, IL)",3,0.53,202.15
+Matthew Martinez,7,314.0,52.33,5,1,"Dugan Wellness Center (Corpus Christi, TX)",2,0.71,314.0
+Jeffery Johnson,5,310.51,77.63,5,2,"Don Haskins Center (El Paso, TX)",1,1.0,310.51
+Derek Henry,10,307.3,34.14,9,5,"Allen Arena (Nashville, TN)",2,0.9,307.3
+Garrett Jones,6,305.23,61.05,6,4,"Alumni Hall (Annapolis, MD)",1,1.0,149.3
+Chris Balunek,2,303.09,303.09,2,1,"Moody Coliseum (Abilene, TX)",1,1.0,303.09
+Kael Saloy,14,297.1,22.85,8,3,"University Center (Hammond, LA)",4,0.57,173.52
+Matt Ditty,5,291.51,72.88,4,2,"America First Event Center (Cedar City, UT)",2,0.8,291.51
+Alex Langley,11,289.6,28.96,9,5,"McDougald-McLendon Arena (Durham, NC)",2,0.82,152.81
+Earnie Pheal,9,289.31,36.16,6,2,"Kiefer Lakefront Arena (New Orleans, LA)",3,0.67,123.57
+Dave Cronin Sr.,3,289.01,144.51,2,2,"Convocation Center (DeKalb, IL)",2,0.67,289.01
+Jon Broska,15,276.3,19.74,5,1,"Swisher Gymnasium (Jacksonville, FL)",4,0.33,92.1
+Andre Crawford,21,272.23,13.61,13,3,"Sharp Gymnasium (Houston, TX)",4,0.62,272.23
+Daniel Shafer,3,272.23,136.11,2,1,"William R. Johnson Coliseum (Nacogdoches, TX)",2,0.67,272.23
+Rod Mrakovich,3,260.59,130.3,3,3,"Henry J. Goodman Arena (Cleveland, OH)",1,1.0,260.59
+Mike McCloskey,18,257.55,15.15,16,7,"Detrick Gymnasium (New Britain, CT)",2,0.89,257.55
+William Humes,7,256.19,42.7,6,2,"Kimmel Arena (Asheville, NC)",2,0.86,156.95
+Corey Haney,9,252.56,31.57,5,3,"Winthrop Coliseum (Rock Hill, SC)",2,0.56,153.32
+Boyd Copeland,8,249.46,35.64,6,3,"Gentry Center Complex (Nashville, TN)",3,0.75,249.46
+Craig Lastres,9,245.5,30.69,7,5,"Detrick Gymnasium (New Britain, CT)",2,0.78,245.5
+Adam Vandenburg,2,245.35,245.35,2,2,"CURE Insurance Arena (Trenton, NJ)",1,1.0,245.35
+Josean Vega,21,242.27,12.11,18,9,"Roy L. Patrick Gymnasium (Burlington, VT)",2,0.86,242.27
+Christopher Brown,14,240.98,18.54,10,8,"Joel & Diane Bloom Wellness & Events Center (Newark, NJ)",3,0.71,240.98
+Tiger Womack,9,240.98,30.12,7,4,"Costello Athletic Center (Lowell, MA)",2,0.78,240.98
+Josh Pitto,8,236.41,33.77,7,5,"Screaming Eagles Arena (Evansville, IN)",2,0.88,236.41
+Justin Dorris,6,236.41,47.28,4,3,"Kathleen and Tom Elam Center (Martin, TN)",2,0.67,236.41
+Jeremy Campbell,15,232.95,16.64,11,3,"University Center (Hammond, LA)",3,0.73,232.95
+Brad Gaston,13,232.48,19.37,10,7,"SRC Arena (Riverside, CA)",2,0.77,232.48
+Brett Smith,2,232.48,232.48,2,2,"Hulman Center (Terre Haute, IN)",1,1.0,232.48
+Jeffrey Malham,9,232.48,29.06,6,5,"Hulman Center (Terre Haute, IN)",3,0.67,232.48
+Jackson Strong,5,232.48,58.12,3,3,"Curb Event Center (Nashville, TN)",2,0.6,232.48
+Dillon Brasher,7,226.16,37.69,4,3,"Robert F. Hyland Arena (Saint Charles, MO)",4,0.57,226.16
+Hayden Hilty,3,221.07,110.53,3,2,"Reese Court (Cheney, WA)",1,1.0,221.07
+Stephen Sherrill,8,216.79,30.97,6,4,"Kirby Sports Center (Easton, PA)",2,0.75,216.79
+Devon Maio,12,210.52,19.14,10,6,"Lundholm Gymnasium (Durham, NH)",2,0.83,172.11
+Michael Kolen,5,192.71,48.18,5,3,"McKenzie Arena (Chattanooga, TN)",1,1.0,111.32
+Scott Siville,6,190.79,38.16,5,3,"Hard Rock Cancun (Cancún, MEX)",2,0.83,190.79
+Kellen Milliner,4,188.15,62.72,4,3,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",1,1.0,188.15
+Jordan Conley,13,184.2,15.35,6,3,"Swisher Gymnasium (Jacksonville, FL)",6,0.46,92.1
+Adam James,8,184.2,26.31,5,1,"Edmunds Center (DeLand, FL)",3,0.62,92.1
+Trent Lovewell,19,182.2,10.12,12,8,"Reed Gym (Pocatello, ID)",2,0.63,182.2
+Mason Silver,3,179.14,89.57,3,2,"Calihan Hall (Detroit, MI)",1,1.0,146.21
+Tony Dawkins,9,176.19,22.02,8,4,"First Horizon Coliseum (Greensboro, NC)",2,0.89,176.19
+John Dillon,13,173.14,14.43,8,5,"Allen Arena (Nashville, TN)",5,0.62,173.14
+Joseph Brogan,3,172.92,86.46,3,2,"James A. Rhodes Arena (Akron, OH)",1,1.0,112.25
+Kyle Brown,2,169.76,169.76,2,2,"Baxter Arena (Omaha, NE)",1,1.0,169.76
+Doug George,10,163.5,18.17,6,2,"Field House (Commerce, TX)",3,0.6,163.5
+Italo Araujo,8,161.57,23.08,7,4,"Qubein Arena (High Point, NC)",2,0.88,161.57
+Jason Creek,10,158.02,17.56,6,3,"Allen Arena (Nashville, TN)",3,0.6,158.02
+Kyle Stewart,24,158.02,6.87,15,10,"Screaming Eagles Arena (Evansville, IN)",4,0.62,158.02
+Kastine Evans,12,155.88,14.17,10,6,"Reitz Arena (Baltimore, MD)",2,0.83,155.88
+Matthew LaGanke,8,154.7,22.1,6,2,"Donald N. Dedmon Center (Radford, VA)",2,0.75,153.32
+"Edward Corbett, Jr.",8,153.37,21.91,6,5,"Stony Brook Arena (Stony Brook, NY)",2,0.75,153.37
+Jon Riggsbee,11,153.32,15.33,7,3,"Ross E. Templeton Center (Clinton, SC)",3,0.64,153.32
+Brad Fowler,2,152.77,152.77,2,1,"College Park Center (Arlington, TX)",1,1.0,152.77
+Paul Tuomey,14,148.62,11.43,13,7,"Detrick Gymnasium (New Britain, CT)",2,0.93,148.62
+Mike Kitts,6,142.29,28.46,5,4,"Ocean Center (Daytona Beach, FL)",2,0.83,142.29
+Rufus Lott III,10,139.56,15.51,6,1,"UTRGV Fieldhouse (Edinburg, TX)",5,0.6,139.56
+Jermaine Rodgers,3,137.93,68.96,3,2,"Hill Field House (Baltimore, MD)",1,1.0,133.63
+Winston Trotter,8,137.77,19.68,5,2,"Health & Physical Education Arena (Houston, TX)",3,0.62,137.77
+Jim Ostwalt,4,132.66,44.22,4,3,"Spiro Sports Center Athletic Complex (Staten Island, NY)",1,1.0,132.66
+Bill Elk,4,124.92,41.64,3,3,"James A. Rhodes Arena (Akron, OH)",2,0.75,124.92
+Kendall Pike,11,121.92,12.19,9,4,"Qubein Arena (High Point, NC)",2,0.82,121.92
+"Ed Corbett, Jr.",2,121.79,121.79,2,2,"Chesapeake Employers Insurance Arena (Baltimore, MD)",1,1.0,121.79
+Johnny Harrington,5,121.41,30.35,5,1,"Alex G. Spanos Center (Stockton, CA)",1,1.0,121.41
+Grant Jeffers,2,118.75,118.75,2,2,"Reed Gym (Pocatello, ID)",1,1.0,118.75
+Brelan Hillman,2,115.18,115.18,2,2,"Kaplan Arena (Williamsburg, VA)",1,1.0,115.18
+Moe Najmyar,3,111.57,55.78,3,3,"Case Gym (Boston, MA)",1,1.0,111.57
+Chris McCurry,8,101.47,14.5,5,3,"Bon Secours Wellness Arena (Greenville, SC)",3,0.62,101.47
+Cody Vincent,9,95.92,11.99,6,2,"Kiefer Lakefront Arena (New Orleans, LA)",3,0.67,95.92
+Andrew Casas,12,92.1,8.37,9,5,"Swisher Gymnasium (Jacksonville, FL)",4,0.75,92.1
+Kenneth Totten,10,92.1,10.23,4,1,"Swisher Gymnasium (Jacksonville, FL)",4,0.4,92.1
+Joseph Carmisione,12,89.65,8.15,10,7,"Kirby Sports Center (Easton, PA)",2,0.83,89.65
+"Steven Perry, Jr.",2,88.97,88.97,2,2,"Wells Fargo Center (Philadelphia, PA)",1,1.0,88.97
+Donald Daniels,11,81.39,8.14,7,4,"Dunn-Oliver Acadome (Montgomery, AL)",3,0.64,81.39
+Chet Walker,4,70.29,23.43,4,2,"Hill Field House (Baltimore, MD)",1,1.0,37.08
+Leon Sandiford,3,70.29,35.14,3,2,"Hill Field House (Baltimore, MD)",1,1.0,37.08
+Toby Doolittle,14,56.05,4.31,12,6,"Beasley Coliseum (Pullman, WA)",2,0.86,56.05
+Phil Sallustio Jr,2,42.62,42.62,2,2,"Jadwin Gymnasium (Princeton, NJ)",1,1.0,42.62
+Garrett Theriot,18,42.17,2.48,7,2,"Kiefer Lakefront Arena (New Orleans, LA)",5,0.39,42.17
+Chris Devlin,11,39.3,3.93,8,5,"Hart Center at the Luth Athletic Complex (Worcester, MA)",3,0.73,39.3
+Dave Fernandez,17,38.53,2.41,11,6,"Pizzitola Sports Center (Providence, RI)",3,0.65,38.53
+Jason Alabanza,15,38.34,2.74,13,4,"Mott Athletics Center (San Luis Obispo, CA)",3,0.87,38.34
+Isaiah Rivers,2,33.21,33.21,2,2,"Burr Gymnasium (Washington, DC)",1,1.0,33.21
+Andy Cohn,9,18.1,2.26,7,1,"The Nest (Sacramento, CA)",3,0.78,18.1
+Everett Summers,5,4.29,1.07,4,2,"Hytche Center (Princess Anne, MD)",2,0.8,4.29
+Rob Riley Jr,2,0.0,0.0,2,2,"UPMC Events Center (Carnot-Moon, PA)",1,1.0,0.0
+Dion Dowell,4,0.0,0.0,4,2,"Legacy Center (Lake Charles, LA)",1,1.0,0.0
+Kristyne Esparaza,2,0.0,0.0,2,1,"War Memorial at the Sobrato Center (San Francisco, CA)",1,1.0,0.0
+Eddie Shannon Sr.,3,0.0,0.0,3,3,"Joan Perry Brock Center (Farmville, VA)",1,1.0,0.0
+Byron Rosier,9,0.0,0.0,7,3,"Moore Gymnasium (Daytona Beach, FL)",2,0.78,0.0
+Javier Vazquez,2,0.0,0.0,1,1,"Coliseo Rubén Rodríguez (Bayamón, PR)",2,0.5,0.0
+Vladmir Voyard-Tadal,2,0.0,0.0,2,2,"Neville Arena (Auburn, AL)",1,1.0,0.0
+Alex Manuel,9,0.0,0.0,5,4,"Jack Stephens Center (Little Rock, AR)",4,0.56,0.0
+Michael Smith,2,0.0,0.0,2,1,"Farris Center (Conway, AR)",1,1.0,0.0
+Doug Simmons,3,0.0,0.0,3,3,"Crisler Center (Ann Arbor, MI)",1,1.0,0.0
+Jeff Flowers,2,0.0,0.0,2,2,"ICCU Arena (Moscow, ID)",1,1.0,0.0
+Sean Lee,3,0.0,0.0,3,3,"Spiro Sports Center Athletic Complex (Staten Island, NY)",1,1.0,0.0
+D.G. Nelson,2,0.0,0.0,1,1,"SRC Arena (Riverside, CA)",2,0.5,0.0
+John Cahill,10,0.0,0.0,10,5,"Thomas M. Ryan Center (Kingston, RI)",1,1.0,0.0
+Travis Caswell,3,0.0,0.0,2,2,"Emil and Patricia Jones Convocation Center (Chicago, IL)",2,0.67,0.0
+Chris Duprey,4,0.0,0.0,4,3,"Johnson Arena (Morehead, KY)",1,1.0,0.0
+Doug Aprahamian,5,0.0,0.0,4,3,"Spiro Sports Center Athletic Complex (Staten Island, NY)",2,0.8,0.0
+Eddie Shannon Jr.,2,0.0,0.0,1,1,"Qubein Arena (High Point, NC)",2,0.5,0.0
+Baharat Rammanan,3,0.0,0.0,1,1,"The HTC Center (Conway, SC)",3,0.33,0.0
+Williset Del Valle,4,0.0,0.0,2,1,"Edmunds Center (DeLand, FL)",3,0.5,0.0
+Steve Anderson,2,0.0,0.0,2,2,"Mohegan Sun Arena (Uncasville, CT)",1,1.0,0.0
+Brad Zapenas,8,0.0,0.0,6,4,"Leede Arena (Hanover, NH)",2,0.75,0.0
+Aaron Denton,12,0.0,0.0,5,3,"Screaming Eagles Arena (Evansville, IN)",5,0.42,0.0
+Marquis Pettigrew,3,0.0,0.0,1,1,"Lahaina Civic Center (Lahaina, HI)",3,0.33,0.0
+Michael Stramiello,6,0.0,0.0,2,1,"Farris Center (Conway, AR)",5,0.33,0.0
+Darren Budahn,6,0.0,0.0,4,4,"Emil and Patricia Jones Convocation Center (Chicago, IL)",2,0.67,0.0
+Andrew Walton,10,0.0,0.0,7,7,"Jack Stephens Center (Little Rock, AR)",3,0.7,0.0
+Chase Furlough,10,0.0,0.0,6,2,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.6,0.0
+Mike Greenstein,2,0.0,0.0,1,1,"Madison Square Garden (New York, NY)",2,0.5,0.0
+Donn Berdahl,6,0.0,0.0,4,4,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.67,0.0
+Cedric Bennett,2,0.0,0.0,2,2,"McDougald-McLendon Arena (Durham, NC)",1,1.0,0.0
+Ryan Wechsler,6,0.0,0.0,3,1,"Edmunds Center (DeLand, FL)",4,0.5,0.0
+Jeff Lewis,4,0.0,0.0,4,4,"Activity Center (Bismarck, ND)",1,1.0,0.0
+Fredrick Gipson,6,0.0,0.0,4,3,"Jack Stephens Center (Little Rock, AR)",3,0.67,0.0
+Jacob Hirz,4,0.0,0.0,3,3,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",2,0.75,0.0
+Edward Corbett,3,0.0,0.0,3,2,"Nassau Coliseum (Uniondale, NY)",1,1.0,0.0
+Connor Macdaid,9,0.0,0.0,7,3,"Paul Porter Arena (Boiling Springs, NC)",2,0.78,0.0
+Dave Masino,4,0.0,0.0,4,3,"Spiro Sports Center Athletic Complex (Staten Island, NY)",1,1.0,0.0
+Trey Sytons,2,0.0,0.0,2,2,"John E. Glaser Arena (Philadelphia, PA)",1,1.0,0.0
+Billy Brooks,2,0.0,0.0,1,1,"Hill Field House (Baltimore, MD)",2,0.5,0.0
+Ron Gengenbacher,3,0.0,0.0,2,2,"First Community Arena (Edwardsville, IL)",2,0.67,0.0
+Ben Wolfe,2,0.0,0.0,2,2,"Sanford Pentagon (Sioux Falls, SD)",1,1.0,0.0
+"Stephen Orkus, Jr",2,0.0,0.0,2,2,"Fant-Ewing Coliseum (Monroe, LA)",1,1.0,0.0
+Haywood Bostic,11,0.0,0.0,8,5,"McDougald-McLendon Arena (Durham, NC)",3,0.73,0.0
+Jeffery Anderson,6,0.0,0.0,4,4,"Addition Financial Arena (Orlando, FL)",3,0.67,0.0
+Mike Kashirsky,2,0.0,0.0,1,0,"Hard Rock Cancun (Cancún, MEX)",2,0.5,0.0
+Luis Vazquez,4,0.0,0.0,3,2,"Moore Gymnasium (Daytona Beach, FL)",2,0.75,0.0
+Marvin Harris,4,0.0,0.0,2,2,"The Reef at FSCJ (Jacksonville, FL)",3,0.5,0.0
+Mark Cook,15,0.0,0.0,11,6,"Viking Pavilion (Portland, OR)",3,0.73,0.0
+Joseph Guyton,8,0.0,0.0,3,1,"University Center (Hammond, LA)",4,0.38,0.0
+Ruben Ramos,2,0.0,0.0,2,2,"CBU Events Center (Riverside, CA)",1,1.0,0.0
+WINSTON TROTTER,2,0.0,0.0,1,1,"FCH Assembly Center (Grambling, LA)",2,0.5,0.0
+Albert Buckles,5,0.0,0.0,3,2,"William R. Johnson Coliseum (Nacogdoches, TX)",3,0.6,0.0
+Michael Woods,2,0.0,0.0,2,2,"Ellis Corbett Sports Center (Greensboro, NC)",1,1.0,0.0
+Devon Kinsey,2,0.0,0.0,2,1,"Hill Field House (Baltimore, MD)",1,1.0,0.0
+Jason Horsley,2,0.0,0.0,2,2,"Dahlberg Arena (Missoula, MT)",1,1.0,0.0
+Adrian Judie,5,0.0,0.0,3,2,"UTRGV Fieldhouse (Edinburg, TX)",3,0.6,0.0
+Chris Merlo,5,0.0,0.0,4,3,"Atlantis Resort (Paradise Island, Bahamas)",2,0.8,0.0
+Eric Dust,5,0.0,0.0,4,4,"Worthington Arena (Bozeman, MT)",2,0.8,0.0
+Lee Kluttz,4,0.0,0.0,3,2,"Kimmel Arena (Asheville, NC)",2,0.75,0.0
+Michael Ingram,4,0.0,0.0,3,3,"Groniger Arena (Charleston, IL)",2,0.75,0.0
+"Stephen Orkus, Jr.",10,0.0,0.0,5,2,"Fant-Ewing Coliseum (Monroe, LA)",3,0.5,0.0
+Donatas Siaudinis,2,0.0,0.0,2,1,"Winthrop Coliseum (Rock Hill, SC)",1,1.0,0.0
+Juwaan Williams,2,0.0,0.0,1,1,"M&T Bank Arena (Hamden, CT)",2,0.5,0.0
+Freddie Williams,9,0.0,0.0,6,5,"CB&S Bank Arena at Flowers Hall (Florence, AL)",3,0.67,0.0
+Errol Lewis,3,0.0,0.0,3,3,"Holmes Convocation Center (Boone, NC)",1,1.0,0.0
+Zach Kmieciak,5,0.0,0.0,3,2,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.6,0.0
+William Covington Jr.,2,0.0,0.0,2,2,"Joseph G. Echols Memorial Hall (Norfolk, VA)",1,1.0,0.0
+Dave Cusick,2,0.0,0.0,1,1,"McLeod Center (Cedar Falls, IA)",2,0.5,0.0
+Evan Burroughs,8,0.0,0.0,7,5,"Roy L. Patrick Gymnasium (Burlington, VT)",2,0.88,0.0
+Coy Gammon,10,0.0,0.0,8,6,"Allen Arena (Nashville, TN)",2,0.8,0.0
+THOMAS NORTHCUTT,2,0.0,0.0,1,1,"FCH Assembly Center (Grambling, LA)",2,0.5,0.0
+Horace Shields,5,0.0,0.0,4,2,"The Nest (Sacramento, CA)",2,0.8,0.0
+Steven Ruppenthal,4,0.0,0.0,4,3,"Bogota Savings Bank Center (Hackensack, NJ)",1,1.0,0.0
+Lee Klutz,2,0.0,0.0,1,1,"Donald N. Dedmon Center (Radford, VA)",2,0.5,0.0
+John Dillion,2,0.0,0.0,2,2,"Baptist Health Arena (Richmond, KY)",1,1.0,0.0
+Jackie Sanders,5,0.0,0.0,4,2,"Smith-Hammond-Middleton Memorial Center (Orangeburg, SC)",2,0.8,0.0
+Evan Singletary,2,0.0,0.0,2,1,"Albert Gersten Pavilion (Los Angeles, CA)",1,1.0,0.0
+Kendall Ridley,4,0.0,0.0,3,3,"McDougald-McLendon Arena (Durham, NC)",2,0.75,0.0
+Derek Anganes,7,0.0,0.0,6,3,"Titan Gym (Fullerton, CA)",2,0.86,0.0
+Klaus Endrissat,3,0.0,0.0,3,2,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",1,1.0,0.0
+Austin Jones,14,0.0,0.0,7,6,"The Reef at FSCJ (Jacksonville, FL)",3,0.5,0.0
+Joel Curbelo,2,0.0,0.0,1,1,"Coliseo Rubén Rodríguez (Bayamón, PR)",2,0.5,0.0
+Chris Koopman,3,0.0,0.0,2,1,"Robert F. Hyland Arena (Saint Charles, MO)",2,0.67,0.0
+John Sousa,2,0.0,0.0,2,2,"Leede Arena (Hanover, NH)",1,1.0,0.0
+Steve Settle,4,0.0,0.0,3,3,"McDougald-McLendon Arena (Durham, NC)",2,0.75,0.0
+Anthony Thomas,3,0.0,0.0,3,1,"Field House (Commerce, TX)",1,1.0,0.0
+Doran Gotschall,4,0.0,0.0,4,4,"Dee Events Center (Ogden, UT)",1,1.0,0.0
+Alex Thompson,3,0.0,0.0,1,1,"Lee's Family Forum (Henderson, NV)",3,0.33,0.0
+Benjamin Price,2,0.0,0.0,2,2,"Hill Field House (Baltimore, MD)",1,1.0,0.0
+Ray Adams,2,0.0,0.0,1,1,"Reese Court (Cheney, WA)",2,0.5,0.0
+Phil Sallustio,5,0.0,0.0,4,4,"Christl Arena (West Point, NY)",2,0.8,0.0
+Pat Driscol,2,0.0,0.0,1,1,"Lahaina Civic Center (Lahaina, HI)",2,0.5,0.0
+Drew Ransdell,8,0.0,0.0,8,6,"McKenzie Arena (Chattanooga, TN)",1,1.0,0.0
+Sean West,7,0.0,0.0,3,2,"First Community Arena (Edwardsville, IL)",3,0.43,0.0
+Kerry Sitton,7,0.0,0.0,6,4,"Wisdom Gymnasium (Stephenville, TX)",2,0.86,0.0
+Stephen Orkus,2,0.0,0.0,2,2,"E.A. Diddle Arena (Bowling Green, KY)",1,1.0,0.0
+Lewis Garrison,9,0.0,0.0,8,5,"Hard Rock Cancun (Cancún, MEX)",2,0.89,0.0
+Randall Wells,22,0.0,0.0,17,10,"Draddy Gymnasium (Riverdale, NY)",2,0.77,0.0
+Eddie Fontno,2,0.0,0.0,2,1,"Hytche Center (Princess Anne, MD)",1,1.0,0.0
+Levon Zakarian,11,0.0,0.0,10,5,"Walter Pyramid (Long Beach, CA)",2,0.91,0.0
+Glenn Gist,2,0.0,0.0,2,1,"Physical Education Complex (Baltimore, MD)",1,1.0,0.0
+Vlad Voyard-Tadal,2,0.0,0.0,2,2,"Ocean Center (Daytona Beach, FL)",1,1.0,0.0
+Sean Samsel,10,0.0,0.0,8,8,"Johnson Arena (Morehead, KY)",2,0.8,0.0
+Todd Apo,3,0.0,0.0,1,1,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.33,0.0
+"Rob Riley, Jr.",3,0.0,0.0,2,2,"Alumni Hall (Annapolis, MD)",2,0.67,0.0
+John Boylan Jr.,3,0.0,0.0,3,2,"Groniger Arena (Charleston, IL)",1,1.0,0.0
+Eddie Shannon,2,0.0,0.0,2,1,"Gilbert Craig Gore Arena (Buies Creek, NC)",1,1.0,0.0
+Jose A. Carrion,2,0.0,0.0,2,2,"Williams Arena at Minges (Greenville, NC)",1,1.0,0.0
+Philip Cudd,6,0.0,0.0,4,3,"Eblen Center (Cookeville, TN)",2,0.67,0.0
+Jon Pierre,2,0.0,0.0,1,1,"Trojan Arena (Troy, AL)",2,0.5,0.0
+Michael Brode,5,0.0,0.0,4,4,"Mercyhurst Athletic Center (Erie, PA)",2,0.8,0.0
+Steven Perry,12,0.0,0.0,8,5,"Elridge Wilburn Blake Sports and Fitness Center (Charlotte Amalie West, Vir Isl)",3,0.67,0.0
+Stephen Orkus Jr,6,0.0,0.0,5,4,"Legacy Center (Lake Charles, LA)",2,0.83,0.0
+David Carter,6,0.0,0.0,4,4,"Kathleen and Tom Elam Center (Martin, TN)",3,0.67,0.0
+Phil Sallustio Jr.,4,0.0,0.0,4,3,"Bob Carpenter Center (Newark, DE)",1,1.0,0.0
+Dustin Williams,7,0.0,0.0,5,4,"Gentry Center Complex (Nashville, TN)",2,0.71,0.0
+Kelly Anlauf,4,0.0,0.0,3,3,"First Bank & Trust Arena (Brookings, SD)",2,0.75,0.0
+Tariq Lewis,4,0.0,0.0,2,2,"Groniger Arena (Charleston, IL)",3,0.5,0.0
+Michael Seyphers,3,0.0,0.0,1,1,"The Nest (Sacramento, CA)",3,0.33,0.0
+Les Jones,5,0.0,0.0,3,3,"The HTC Center (Conway, SC)",3,0.6,0.0
+Larry Johnson,2,0.0,0.0,1,1,"McDougald-McLendon Arena (Durham, NC)",2,0.5,0.0
+Tony Santiago,3,0.0,0.0,3,3,"Mercyhurst Athletic Center (Erie, PA)",1,1.0,0.0
+Gregg Morstein,3,0.0,0.0,2,2,"Viking Pavilion (Portland, OR)",2,0.67,0.0
+Tyler Sandman,6,0.0,0.0,3,2,"VisitLethbridge.com Arena (Lethbridge, Canada)",3,0.5,0.0
+Anthony Munford,2,0.0,0.0,2,2,"Smith-Hammond-Middleton Memorial Center (Orangeburg, SC)",1,1.0,0.0
+Jimmy Googas,4,0.0,0.0,2,1,"VisitLethbridge.com Arena (Lethbridge, Canada)",3,0.5,0.0
+Rick Batsell,17,0.0,0.0,12,8,"The Nest (Sacramento, CA)",4,0.71,0.0
+Trenton Cheney,2,0.0,0.0,1,1,"William R. Johnson Coliseum (Nacogdoches, TX)",2,0.5,0.0
+"Phil Sallustio, Jr.",3,0.0,0.0,3,3,"Stony Brook Arena (Stony Brook, NY)",1,1.0,0.0
+Eddie Shannon Jr,2,0.0,0.0,1,1,"CSU Fieldhouse (North Charleston, SC)",2,0.5,0.0
+Matt Porter,3,0.0,0.0,2,2,"Mercyhurst Athletic Center (Erie, PA)",2,0.67,0.0
+Wesley Harper,10,0.0,0.0,9,6,"Robert F. Hyland Arena (Saint Charles, MO)",2,0.9,0.0
+Sean Seales,5,0.0,0.0,2,1,"Hertz Arena (Estero, FL)",3,0.4,0.0
+John Jenkins,5,0.0,0.0,4,3,"Neches Arena at the Montagne Center (Beaumont, TX)",2,0.8,0.0
+Marvin Harris Jr,3,0.0,0.0,2,2,"Swisher Gymnasium (Jacksonville, FL)",2,0.67,0.0
+Matt Mason,2,0.0,0.0,2,2,"ICCU Arena (Moscow, ID)",1,1.0,0.0
+Daniel Adeyemi,2,0.0,0.0,2,1,"Reitz Arena (Baltimore, MD)",1,1.0,0.0
+Scott Tierney,3,0.0,0.0,2,1,"Groniger Arena (Charleston, IL)",2,0.67,0.0
+Mike Terry,2,0.0,0.0,1,1,"Scope Arena (Norfolk, VA)",2,0.5,0.0
+Mark Pillen,5,0.0,0.0,3,3,"CB&S Bank Arena at Flowers Hall (Florence, AL)",2,0.6,0.0
+Kelly Pfiefer,2,0.0,0.0,2,2,"Matthew Knight Arena (Eugene, OR)",1,1.0,0.0
+Kelly Pfeiffer,3,0.0,0.0,3,3,"Clune Arena (U.S. Air Force Academy, CO)",1,1.0,0.0
+Mike Scyphers,3,0.0,0.0,1,1,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",3,0.33,0.0
+Chad Shepard,3,0.0,0.0,2,2,"SimpliFi Arena at Stan Sheriff Center (Honolulu, HI)",2,0.67,0.0
+Darren Drake,2,0.0,0.0,2,2,"Worthington Arena (Bozeman, MT)",1,1.0,0.0
+Ed Corbett Jr,2,0.0,0.0,2,2,"William H. Pitt Center (Fairfield, CT)",1,1.0,0.0
+Patrick O'Connell,7,0.0,0.0,6,5,"UPMC Cooper Fieldhouse (Pittsburgh, PA)",2,0.86,0.0
+Brian Crocker,2,0.0,0.0,2,1,"Eblen Center (Cookeville, TN)",1,1.0,0.0
+Connor Hoagland,2,0.0,0.0,2,2,"Costello Athletic Center (Lowell, MA)",1,1.0,0.0
+Michael Smith Jr.,2,0.0,0.0,1,1,"Event Center (Huntsville, AL)",2,0.5,0.0
+Joe Prince,9,0.0,0.0,6,3,"Moore Gymnasium (Daytona Beach, FL)",3,0.67,0.0
+Charles Howell Jr.,2,0.0,0.0,1,1,"Moore Gymnasium (Daytona Beach, FL)",2,0.5,0.0
+Tyler Jones,21,0.0,0.0,12,6,"Alumni Hall (Annapolis, MD)",4,0.57,0.0
+Corey Taylor,7,0.0,0.0,7,6,"Smith-Hammond-Middleton Memorial Center (Orangeburg, SC)",1,1.0,0.0
+Isaac Bennett,2,0.0,0.0,2,2,"Joseph J. Gentile Arena (Chicago, IL)",1,1.0,0.0
+Guy Pagano,7,0.0,0.0,5,5,"Detrick Gymnasium (New Britain, CT)",3,0.71,0.0
+Kevin Montz,11,0.0,0.0,6,2,"University Center (Hammond, LA)",3,0.55,0.0
+Shane Thurston,2,0.0,0.0,2,2,"Dee Events Center (Ogden, UT)",1,1.0,0.0
+Brian Hagedorn,3,0.0,0.0,3,3,"Moore Gymnasium (Daytona Beach, FL)",1,1.0,0.0
+William Givens,6,0.0,0.0,6,3,"Gallagher Center (Niagara University, NY)",1,1.0,0.0
+Tavares Armour,5,0.0,0.0,3,1,"Gentry Center Complex (Nashville, TN)",2,0.6,0.0
+Bobby Lineberger,5,0.0,0.0,4,4,"Freedom Hall (Johnson City, TN)",2,0.8,0.0
+Brent Simmons,5,0.0,0.0,4,2,"Legacy Center (Lake Charles, LA)",2,0.8,0.0
+Thomas McDermott,4,0.0,0.0,4,3,"DeGol Arena (Loretto, PA)",1,1.0,0.0
+Luis Vasquez,2,0.0,0.0,1,1,"Edmunds Center (DeLand, FL)",2,0.5,0.0
+Nate Farrell,3,0.0,0.0,2,2,"Ocean Center (Daytona Beach, FL)",2,0.67,0.0
+Ed Corbett Jr.,3,0.0,0.0,3,2,"Hynes Center (New Rochelle, NY)",1,1.0,0.0
+Kyle LeRoy,2,0.0,0.0,2,2,"McLeod Center (Cedar Falls, IA)",1,1.0,0.0
+Jerry Scherzinger,2,0.0,0.0,2,2,"Global Credit Union Arena (Phoenix, AZ)",1,1.0,0.0
+Casey McLellan,2,0.0,0.0,2,1,"UCU Pavilion (Moraga, CA)",1,1.0,0.0
+Ray Nitili,2,0.0,0.0,2,2,"Foster Pavilion (Waco, TX)",1,1.0,0.0
+Chelsie Schweers,2,0.0,0.0,2,2,"Joan Perry Brock Center (Farmville, VA)",1,1.0,0.0
+Mike Wallace,5,0.0,0.0,2,1,"Hertz Arena (Estero, FL)",3,0.4,0.0
+Nathan Quick,2,0.0,0.0,1,1,"McAlister Field House (Charleston, SC)",2,0.5,0.0
+Jeremy Trussell,8,0.0,0.0,7,5,"Screaming Eagles Arena (Evansville, IN)",2,0.88,0.0
+Pat Sweeney,3,0.0,0.0,3,3,"Case Gym (Boston, MA)",1,1.0,0.0
+Gary Corbett,9,0.0,0.0,8,6,"Christl Arena (West Point, NY)",2,0.89,0.0
+Evan Ardelean,3,0.0,0.0,3,2,"Kaplan Arena (Williamsburg, VA)",1,1.0,0.0
+Aron Hart,2,0.0,0.0,1,1,"UWM Panther Arena (Milwaukee, WI)",2,0.5,0.0
+"John Boylan, Jr.",2,0.0,0.0,1,1,"Kathleen and Tom Elam Center (Martin, TN)",2,0.5,0.0
+Blake Thomas,8,0.0,0.0,3,1,"Jack Stephens Center (Little Rock, AR)",4,0.38,0.0
+Felix Fuerte,11,0.0,0.0,6,2,"UNF Arena (Jacksonville, FL)",3,0.55,0.0
+Isaac Barnet,2,0.0,0.0,1,1,"Hill Field House (Baltimore, MD)",2,0.5,0.0
+Mike Fleury,2,0.0,0.0,1,1,"Jim Whelan Boardwalk Hall (Atlantic City, NJ)",2,0.5,0.0
+Randy Herimerman,2,0.0,0.0,2,2,"CBU Events Center (Riverside, CA)",1,1.0,0.0
