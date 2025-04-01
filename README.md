@@ -15,8 +15,12 @@ This project aims to analyze potential biases in NCAA refereeing by examining tr
   2. Gather specific data related to box scores, team statistics (particularly foul-related), and the names of officials.
 
 - **Stats**: This directory contains the R Shiny app code, which is used to visualize and interact with the analysis results.
+  
+![Screenshot 2025-04-01 at 1 43 52 AM](https://github.com/user-attachments/assets/c5d9c4cf-c4be-4521-93d4-c9dae43f925a)
 
 - **Temp**: A sandbox directory for codes generated during the development process. This is primarily used for testing and experimentation.
+
+  
 
 ## Instructions for Technical Users
 
