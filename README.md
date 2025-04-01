@@ -31,7 +31,7 @@ This project aims to analyze potential biases in NCAA refereeing by examining tr
    - For visualization, refer to the `stats` directory to run the R Shiny app.
 
 2. **Running the Analysis**:
-   - Ensure all dependencies are installed as per the `requirements.txt` (if available).
+   - Ensure all dependencies are installed.
    - Execute the Python scripts in `referee_analysis` to prepare the data.
    - Use the R Shiny app in `stats` to visualize the results.
 
