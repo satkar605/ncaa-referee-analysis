@@ -8,14 +8,14 @@ import pandas as pd
 import os
 
 def analyze_referee_games():
-    """
-    Analyze how many games each referee officiated
-    """
+   
+    #Analyze how many games each referee officiated
+
     # Step 1: Load the data
     print("Loading the data...")
     df = pd.read_csv('ncaa_games_data.csv')
     
-    # Step 2: Let's see what our data looks like
+    # Step 2: Exploring the data structure
     print("\nFirst, let's look at our columns:")
     print(df.columns.tolist())
     
