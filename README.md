@@ -8,20 +8,16 @@ March Madness is intense but is it always fair? I wondered: Does referee travel 
 ### Starting at Zero: Finding Game Data  
 Unlike modern sports data APIs, stats.ncaa.org is old-school. It’s a static, HTML-based website with no formal API. That means there’s no structured endpoint to ping for team stats, box scores, or referee assignments. Every page load is slow, and navigating the site is like flipping through a digital blinder from the early 2000s.  
 
-
-![image](https://github.com/user-attachments/assets/6a2acfbd-a387-4cd7-a6e9-2180cfd8dabe)
-
-
 But buried in that binder is gold: every game has a unique identifier – a game ID – hidden in the URLs of schedule and results page. Once I discovered this, the scraping strategy changed. I wasn’t just crawling pages anymore; I was collecting keys.  
 
-![image](https://github.com/user-attachments/assets/5a6942b9-fbc4-4bf3-8dc9-12d18986a4ac)
+<img width="428" alt="Screenshot 2025-05-13 at 11 07 15 AM" src="https://github.com/user-attachments/assets/d434f74c-5415-4b3e-a200-69ca2e798e5e" />
 
 
 To avoid hammering the site and overwhelming the server (and our computers), I implemented data filtering. By targeting specific days of the 2024-2025 regular season, I could scrape only the games that occurred on a given date. This made the process more efficient, scalable, and respectful of the website’s fragile load capacity.  
 
 From there, I built a script to automate those dates, extract game IDs, and queue them up for deeper scraping. Every game ID led us to a new vault of structured data: team names, player stats, and most importantly, the list of assigned referees.
 
-![image](https://github.com/user-attachments/assets/ed88229e-1849-49a2-8096-3abb26abe6c9)
+![May 13, 2025, 11_19_16 AM](https://github.com/user-attachments/assets/af1b577b-d1f2-4e0d-90f5-2cf9d88a2123)
 
 
 ---
@@ -42,17 +38,9 @@ By centralizing referee names, foul patterns, and game context into one structur
 ### Mapping the Miles: Measuring Referee Travel  
 After collecting game data, the next step was to approximate how far referees traveled over the course of the 2024–25 NCAA season. To do this, I used Nominatim, a geocoding tool powered by OpenStreetMap, to convert venue names into latitude and longitude coordinates.  
 
-This allowed me to calculate the geodesic distance between venues across consecutive games officiated by each referee; essentially reconstructing their travel itinerary.
+This allowed me to approxoimate distance between venues across consecutive games officiated by each referee; essentially reconstructing their travel itinerary.
 
----
 
-### Behind the Code  
-Using `geopy`, I created a Python class to:  
-- Geocode venue names using Nominatim, with caching to avoid repeated lookups  
-- Extract referee assignments from each game  
-- Calculate total miles traveled, average trip distance, and max single trip  
-- Count the number of unique venues and states visited  
-- Output a full dataset of referee-specific travel statistics  
 
 **Highlight:**  
 - The final dataset contains travel stats for 778 unique referees  
@@ -61,15 +49,11 @@ Using `geopy`, I created a Python class to:
 ---
 
 ### R Shiny Dashboard for Exploratory Data Analysis  
-To support exploratory data analysis, I developed an interactive R Shiny dashboard focused on referee travel and workload metrics during the 2023–24 NCAA Division I Men’s Basketball season.  
+To support exploratory data analysis, I developed an interactive R Shiny dashboard focused on referee travel and workload metrics during the 2023–24 NCAA Division I Men’s Basketball season. 
+
+You can access the live dashboard here: [NCAA Referee Analysis Dashboard](https://satkar605.shinyapps.io/ncaa-dashboard/)
 
 The objective was to create a streamlined interface to explore referee behavior without relying on static plots or spreadsheets. By integrating multiple referee-level indicators into a single environment, we were able to observe patterns, validate assumptions, and flag inconsistencies before advancing to modeling.
-
-**Tools and Libraries Used:**  
-- `shiny`, `shinydashboard`: layout and reactive functionality  
-- `plotly`: dynamic charts with hover capabilities  
-- `DT`: searchable, exportable tables for referee data  
-- `bslib` and custom CSS: styling and layout enhancements  
 
 This dashboard played a central role in the data exploration phase. It helped identify outliers, such as officials with concentrated venue assignments or irregular travel patterns. The visual breakdown of referee profiles also informed decisions about which features to engineer for the upcoming modeling phase.
 
@@ -78,35 +62,66 @@ This dashboard played a central role in the data exploration phase. It helped id
 ### Dashboard Features  
 
 **Overview Tab**  
-- Summarizes key metrics: total referees analyzed, average travel distance, total games  
-- Computes unique venue counts  
-- Includes a travel distribution histogram and a scatter plot comparing games officiated and travel miles
+- Provides a high-level snapshot of referee coverage, enabling quick assessment of total workforce, travel demands, and game allocations
+- Highlights venue diversity to support logistics planning and assignment equity
+- Visual tools like histograms and scatter plots help identify workload imbalances and detect outliers in officiating patterns
 
   ![Screenshot 2025-05-13 at 11 03 44 AM](https://github.com/user-attachments/assets/7900db4b-a6cb-4d25-ae58-4f6d6d16a2e3)
 
 
 **Referee Rankings Tab**  
-- Enables sorting by travel miles, number of games, or venue diversity  
-- Includes a filter for minimum games officiated  
-- Displays rankings in an interactive table with export options  
+- Supports performance and fairness reviews by ranking referees based on travel intensity, game count, and venue diversity
+- Enables data-driven staffing decisions with customizable filters (e.g., by minimum games officiated)
+- Exportable tables streamline reporting and communication with scheduling or operations teams 
 
 ![Screenshot 2025-05-13 at 11 03 59 AM](https://github.com/user-attachments/assets/950df0e8-1081-4cba-882e-98993a0d2a20)
 
 
 **Individual Referee Tab**  
-- Allows selection of any referee from the dataset  
-- Displays detailed profile including trip statistics, most visited venue, and diversity ratio  
-- Visualizes estimated shortest, average, and longest travel segments  
-- Includes workload trends: average distance per game, games per week, and recovery time
+- Offers a detailed breakdown of each referee’s travel footprint and workload distribution for performance audits
+- Highlights travel extremes (shortest, average, longest trips) to assess burnout risk and plan recovery windows
+- Trends in game frequency and rest time enable better workload balancing across the season
 
   ![Screenshot 2025-05-13 at 11 04 26 AM](https://github.com/user-attachments/assets/2e33346b-6cc3-4123-9a75-e51453b03c26)
 
 
 ---
 
-### Future Research Direction  
-This project establishes the groundwork for analyzing how referee travel may influence officiating behavior. The next step is to build models that examine the relationship between travel distance and decisions such as foul calls or technical fouls.  
+### Assumptions and Caveats
 
-We also plan to compare regular season data with the later stages of the season. These include conference tournaments and the NCAA tournament. Referee selection in these stages is more controlled and less regionally influenced. This comparison may reveal whether the selection process affects consistency in officiating.  
+- **Travel Distance Approximation**  
+  Travel miles were calculated using straight-line (great-circle) distances between venues, not actual travel routes.
 
-The goal is to use these insights to better understand the operational factors behind officiating patterns. This could help inform future decisions about referee assignments and scheduling in high-stakes games.
+- **No Integration with Travel APIs**  
+  More precise travel data (e.g., driving time, flight duration) would require paid APIs like Google Maps, which were not used in this project.
+
+- **Uniform Travel Assumption**  
+  The model assumes all referees used similar travel modes and routes, which may not reflect real-world variation.
+
+- **No Time-Based Fatigue Modeling**  
+  Travel timing, layovers, or rest periods were not captured—only distance and frequency were analyzed.
+
+- **Foul Behavior Not Linked to Travel**  
+  Statistical analysis found no consistent relationship between travel distance and foul calls by referees.
+
+- **Intended Use**  
+  This dashboard is most effective for monitoring travel workload and supporting equitable assignment—not for evaluating referee bias or decision quality.
+
+
+**Tech Stack:**
+- **Frontend:** R Shiny
+- **Data Processing:** R (tidyverse), Python (pandas, numpy)
+- **Visualization:** Plotly, ggplot2
+- **Deployment:** Shinyapps.io
+- **Version Control:** Git/GitHub
+
+---
+
+### Behind the Code (Distance Approximation) 
+Using `geopy`, I created a Python class to:  
+- Geocode venue names using Nominatim, with caching to avoid repeated lookups  
+- Extract referee assignments from each game  
+- Calculate total miles traveled, average trip distance, and max single trip  
+- Count the number of unique venues and states visited  
+- Output a full dataset of referee-specific travel statistics  
+
