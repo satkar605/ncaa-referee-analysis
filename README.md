@@ -8,11 +8,21 @@ March Madness is intense but is it always fair? I wondered: Does referee travel 
 ### Starting at Zero: Finding Game Data  
 Unlike modern sports data APIs, stats.ncaa.org is old-school. It’s a static, HTML-based website with no formal API. That means there’s no structured endpoint to ping for team stats, box scores, or referee assignments. Every page load is slow, and navigating the site is like flipping through a digital blinder from the early 2000s.  
 
+
+![image](https://github.com/user-attachments/assets/6a2acfbd-a387-4cd7-a6e9-2180cfd8dabe)
+
+
 But buried in that binder is gold: every game has a unique identifier – a game ID – hidden in the URLs of schedule and results page. Once I discovered this, the scraping strategy changed. I wasn’t just crawling pages anymore; I was collecting keys.  
+
+![image](https://github.com/user-attachments/assets/5a6942b9-fbc4-4bf3-8dc9-12d18986a4ac)
+
 
 To avoid hammering the site and overwhelming the server (and our computers), I implemented data filtering. By targeting specific days of the 2024-2025 regular season, I could scrape only the games that occurred on a given date. This made the process more efficient, scalable, and respectful of the website’s fragile load capacity.  
 
 From there, I built a script to automate those dates, extract game IDs, and queue them up for deeper scraping. Every game ID led us to a new vault of structured data: team names, player stats, and most importantly, the list of assigned referees.
+
+![image](https://github.com/user-attachments/assets/ed88229e-1849-49a2-8096-3abb26abe6c9)
+
 
 ---
 
@@ -70,18 +80,27 @@ This dashboard played a central role in the data exploration phase. It helped id
 **Overview Tab**  
 - Summarizes key metrics: total referees analyzed, average travel distance, total games  
 - Computes unique venue counts  
-- Includes a travel distribution histogram and a scatter plot comparing games officiated and travel miles  
+- Includes a travel distribution histogram and a scatter plot comparing games officiated and travel miles
 
-**Rankings Tab**  
+  ![Screenshot 2025-05-13 at 11 03 44 AM](https://github.com/user-attachments/assets/7900db4b-a6cb-4d25-ae58-4f6d6d16a2e3)
+
+
+**Referee Rankings Tab**  
 - Enables sorting by travel miles, number of games, or venue diversity  
 - Includes a filter for minimum games officiated  
 - Displays rankings in an interactive table with export options  
+
+![Screenshot 2025-05-13 at 11 03 59 AM](https://github.com/user-attachments/assets/950df0e8-1081-4cba-882e-98993a0d2a20)
+
 
 **Individual Referee Tab**  
 - Allows selection of any referee from the dataset  
 - Displays detailed profile including trip statistics, most visited venue, and diversity ratio  
 - Visualizes estimated shortest, average, and longest travel segments  
 - Includes workload trends: average distance per game, games per week, and recovery time
+
+  ![Screenshot 2025-05-13 at 11 04 26 AM](https://github.com/user-attachments/assets/2e33346b-6cc3-4123-9a75-e51453b03c26)
+
 
 ---
 
